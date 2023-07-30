@@ -1,1 +1,3 @@
-{% if openSource %}<strong>Is it open source?</strong> {% if openSource = true %}✅{% endif %} {% if openSource = false %} ❌ {% endif %} {% endif %}
+{%- if openSource -%}
+<strong>Is it open source?</strong> {% if openSource === true %} ✅ {% endif %} {% if openSource === false %} ❌ {% endif %}
+{%- endif -%}
