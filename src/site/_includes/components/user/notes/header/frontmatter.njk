@@ -1,11 +1,38 @@
 {%- if openSource == true -%}
 <strong>📖 Open Source?</strong> ✅
+<br />
 {%- endif -%}
 
 {%- if openSource == false -%}
 <strong>📖 Open Source?</strong> ❌ 
+<br />
 {%- endif -%}
 
-{%- if openSource -%}
-<strong>📖 Open Source 2?</strong> {{openSource}}
+<table border=0 cellpadding=0 cellspacing=0 style='border-collapse:
+ collapse;table-layout:fixed;'>
+ <col width=170 style='mso-width-source:userset;mso-width-alt:5934;width:128pt'>
+ <col width=134 style='mso-width-source:userset;mso-width-alt:4677;width:101pt'>
+ <tr height=19 style='height:14.5pt'>
+
+{%- if URL -%}
+  <td height=19 class=xl1512303 width=170 style='height:14.5pt;width:128pt'><img src="https://cdn3.emoji.gg/emojis/6383-discord-linked-roles-dark.png" width="64px" height="64px" alt="Discord_Linked_Roles_dark"> URL</td>
+  <td class=xl6512303 width=134 style='width:101pt'>{{ URL }}</td>
+ </tr>
 {%- endif -%}
+
+{%- if apps -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>apps</td>
+  <td class=xl1512303>{{ apps }}</td>
+ </tr>
+{%- endif -%}
+
+{%- if serverLocation -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>dataLocate</td>
+  <td class=xl1512303>{{ serverLocation }}</td>
+ </tr>
+{%- endif -%}
+
+
+</table>
