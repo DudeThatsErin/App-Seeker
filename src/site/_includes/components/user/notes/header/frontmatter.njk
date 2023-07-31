@@ -1,13 +1,3 @@
-{%- if openSource == true -%}
-<strong>📖 Open Source?</strong> ✅
-<br />
-{%- endif -%}
-
-{%- if openSource == false -%}
-<strong>📖 Open Source?</strong> ❌ 
-<br />
-{%- endif -%}
-
 <table>
 
 {%- if address -%}
@@ -19,7 +9,7 @@
 
 {%- if apps -%}
  <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl1512303 style='height:14.5pt'>📱Available Where?</td>
+  <td height=19 class=xl1512303 style='height:14.5pt'>📱 Available Where?</td>
   <td class=xl1512303>{{ apps }}</td>
  </tr>
 {%- endif -%}
@@ -31,5 +21,53 @@
  </tr>
 {%- endif -%}
 
+{%- if hq  -%}
+<tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>📍 Headquarters</td>
+  <td class=xl1512303>{{ hq }}</td>
+ </tr>
+{%- endif -%}
+
+{%- if pluginSupport == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🔌 Plugin Support</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if pluginSupport == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🔌 Plugin Support</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if openSource == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>📖 Open Source</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if openSource == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>📖 Open Source</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if cloudAccess == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>☁️ Cloud Access</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if cloudAccess == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>☁️ Cloud Access</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
 
 </table>
