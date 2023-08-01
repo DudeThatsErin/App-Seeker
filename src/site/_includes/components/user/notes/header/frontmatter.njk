@@ -42,9 +42,37 @@
  </tr>
 {%- endif -%}
 
+{%- if totpStorage == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🧩 TOTP Storage</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if totpStorage == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🧩 TOTP Storage</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
 {%- if openSource == true -%}
  <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl1512303 style='height:14.5pt'>📖 Open Source</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if openSource == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>📖 Open Source</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if storageAmount -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>💾 Open Source</td>
   <td class=xl1512303>✅</td>
  </tr>
 {%- endif -%}
@@ -67,6 +95,185 @@
  <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl1512303 style='height:14.5pt'>☁️ Cloud Access</td>
   <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if multiDeviceSync == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🌐 Multi-Device Sync</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if multiDeviceSync == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🌐 Multi-Device Sync</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if collaboration == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🧑‍🤝‍🧑 Collaboration</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if collaboration == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🧑‍🤝‍🧑 Collaboration</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if dueDates == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>📅 Do &amp; "Due" Dates</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if dueDates == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>📅 Do &amp; "Due" Dates</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if fullDataExport == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🛈 Full Data Export</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if fullDataExport == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🛈 Full Data Export</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if attachmentSupport == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🖇️ Attachment Support</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if attachmentSupport == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🖇️ Attachment Support</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if selfHosting == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🖥️ Self-Hosting Option</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if selfHosting == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🖥️ Self-Hosting Option</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if 2FAoptions == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🔒 2FA Available</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if 2FAoptions == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🔒 2FA Available</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if highlightsWhere -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>☀️ Highlights Available Where?</td>
+  <td class=xl1512303>{{ highlightsWhere }}</td>
+ </tr>
+{%- endif -%}
+
+{%- if canItSave -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>💾 What can it save?</td>
+  <td class=xl1512303>{{ canItSave }}</td>
+ </tr>
+{%- endif -%}
+
+{%- if browserExtensions == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🧩 Browser Extensions</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if browserExtensions == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🧩 Browser Extensions</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if priceURL -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>💵 URL to Pricing Page</td>
+  <td class=xl1512303><a href="{{ priceURL }}">View Pricing Here</a></td>
+ </tr>
+{%- endif -%}
+
+{%- if freeOption == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🆓 Free Option</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if freeOption == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🆓 Free Option</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if otpOption == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>1️⃣ One-Time Purchase Option</td>
+  <td class=xl1512303>Yes & ${{otpPrice}}</td>
+ </tr>
+{%- endif -%}
+
+{%- if monthPrice -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🪙 Price Monthly</td>
+  <td class=xl1512303>${{ monthPrice }}</td>
+ </tr>
+{%- endif -%}
+
+{%- if yearPrice -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🪙 Price Yearly</td>
+  <td class=xl1512303>${{ yearPrice }}</td>
+ </tr>
+{%- endif -%}
+
+{%- if anyDiscounts == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🪙 Any Discounts?</td>
+  <td class=xl1512303>
+    {{discountDescription}}
+    <br />
+    <a href="{{discountURL}}">URL to Discounts</a>
+  </td>
  </tr>
 {%- endif -%}
 
