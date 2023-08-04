@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-updated":"2023-08-04T10:10","dg-created":"2023-08-04T10:07","title":"Password Managers","dg-permalink":"password-manager","dg-path":"Password Managers.md","permalink":"/password-manager/","dgPassFrontmatter":true,"created":"2023-08-04T10:07","updated":"2023-08-04T10:10"}
+{"dg-publish":true,"dg-updated":"2023-08-04T10:10","dg-created":"2023-08-04T10:07","title":"Password Managers","dg-permalink":"password-managers","dg-path":"Password Managers.md","permalink":"/password-managers/","dgPassFrontmatter":true,"created":"2023-08-04T10:07","updated":"2023-08-04T10:10"}
 ---
 
 
