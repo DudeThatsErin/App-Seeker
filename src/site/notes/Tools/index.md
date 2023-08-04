@@ -1,7 +1,7 @@
 ---
-dg-home: true
-dg-publish: true
+{"dg-home":false,"dg-publish":true,"permalink":"/tools/index/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 # Welcome Home
 This is where I have everything stored for comparing all of my productivity tools.
 
