@@ -11,4 +11,4 @@
 
 { .block-language-dataview}
 
-or [[Tools/Welcome Home\|Welcome Home]]?
+or [[Tools/Welcome Home\|go back home]]?
