@@ -72,8 +72,22 @@
 
 {%- if storageAmount -%}
  <tr height=19 style='height:14.5pt'>
-  <td height=19 class=xl1512303 style='height:14.5pt'>💾 Open Source</td>
+  <td height=19 class=xl1512303 style='height:14.5pt'>📦 Storage Amount</td>
   <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if addlStorage == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>📥 Add Additional Storage?</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if addlStorage == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>📥 Add Additional Storage?</td>
+  <td class=xl1512303>❌</td>
  </tr>
 {%- endif -%}
 
@@ -112,6 +126,34 @@
  </tr>
 {%- endif -%}
 
+{%- if syncPrice -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>💰 Sync Price</td>
+  <td class=xl1512303>${{ syncPrice }} </td>
+ </tr>
+{%- endif -%}
+
+{%- if webPublishing == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🌐 Web Publishing</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if webPublishing == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🌐 Web Publshing</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if webPublishPrice -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>💰 Web Publish Price</td>
+  <td class=xl1512303>${{ webPublishPrice }} </td>
+ </tr>
+{%- endif -%}
+
 {%- if collaboration == true -%}
  <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl1512303 style='height:14.5pt'>🧑‍🤝‍🧑 Collaboration</td>
@@ -122,6 +164,20 @@
 {%- if collaboration == false -%}
  <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl1512303 style='height:14.5pt'>🧑‍🤝‍🧑 Collaboration</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if nlp == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🗣️ Natural Language Processing</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if nlp == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🗣️ Natural Language Processing</td>
   <td class=xl1512303>❌</td>
  </tr>
 {%- endif -%}
@@ -220,6 +276,62 @@
 {%- if browserExtensions == false -%}
  <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl1512303 style='height:14.5pt'>🧩 Browser Extensions</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if pwSharing == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🔑 Password Sharing</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if pwSharing == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>🔑 Password Sharing</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if noFamily -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>👨‍👩‍👧‍👧 Number of Accounts on Family Plan</td>
+  <td class=xl1512303>{{ noFamily }} </td>
+ </tr>
+{%- endif -%}
+
+{%- if addFamily == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>👨‍👩‍👧‍👧 Add Additional Family Accounts?</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if addFamily == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>👨‍👩‍👧‍👧 Add Additional Family Accounts?</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
+{%- if noBusiness -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>👷‍♀️ Number of Accounts on Business Plan</td>
+  <td class=xl1512303>{{ noBusiness }} </td>
+ </tr>
+{%- endif -%}
+
+{%- if addFamily == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>👷‍♀️ Add Additional Business Accounts?</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if addFamily == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>👷‍♀️ 3rd Add Additional Business Accounts?</td>
   <td class=xl1512303>❌</td>
  </tr>
 {%- endif -%}
