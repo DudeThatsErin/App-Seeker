@@ -2,7 +2,7 @@
 {"dg-home":true,"dg-publish":true,"dg-created":"2023-08-01T10:25","dg-updated":"2023-08-04T10:26","permalink":"/tools/welcome-home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-08-01T10:25","updated":"2023-08-04T10:26"}
 ---
 
-# Welcome Home
+# Welcome to App Seeker!
 This is where I have everything stored for comparing all of my productivity tools.
 
 If you would like to view this in all of its glory, it was made using [Obsidian](https://obsidian.md) which means that if you download and use Obsidian you can clone this vault onto your PC or phone and view it how I created it.
