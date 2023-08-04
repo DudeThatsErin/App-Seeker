@@ -382,9 +382,10 @@
  <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl1512303 style='height:14.5pt'>🪙 Any Discounts?</td>
   <td class=xl1512303>
-    {%- for discs in discountURL & for desc in discountDescription -%}
+    {{discountDescription}}
+    {%- for discs in discountURL -%}
       <br />
-      <a href="{{discs}}">{{desc}}</a>
+      <a href="{{discs}}">URL to Discounts</a>
     {%- endfor -%}
   </td>
  </tr>
