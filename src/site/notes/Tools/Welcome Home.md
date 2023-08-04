@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-created":"2023-08-01T10:25","dg-updated":"2023-08-04T10:53","permalink":"/tools/welcome-home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-08-01T10:25","updated":"2023-08-04T10:53"}
+{"dg-home":true,"dg-publish":true,"dg-created":"2023-08-01T10:25","dg-updated":"2023-08-04T10:53","title":"App Seeker","dg-path":"Welcome Home.md","permalink":"/welcome-home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-08-01T10:25","updated":"2023-08-04T10:53"}
 ---
 
 # Welcome to App Seeker!
