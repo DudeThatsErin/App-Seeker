@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"permalink":"/tools/index/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-home":true,"dg-publish":true,"permalink":"/tools/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 # Welcome Home
