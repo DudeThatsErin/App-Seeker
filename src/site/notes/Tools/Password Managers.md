@@ -10,3 +10,5 @@
 | [[Tools/Password Managers/Bitwarden\|Bitwarden]]     | ✅           | ✅               | ✅            | 1                      | ✅                       | ✅                | 6                     | ✅                 | 6                   | ✅                 | Santa Barbara, CA | ✅                | \-                          | 10                         | ❌              |
 
 { .block-language-dataview}
+
+or [[Tools/Welcome Home\|Welcome Home]]?
