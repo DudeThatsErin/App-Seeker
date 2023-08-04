@@ -16,4 +16,4 @@ You can view all of the pages in the left sidebar by clicking the 3 lines next t
 
 [[Browsers\|Browsers]] - View a comparison of all of the Browsers in this list.
 
-[[about\|About]] - Read about App Seeker and where it originated. FAQs listed here as well.
+[[Tools/About\|About]] - Read about App Seeker and where it originated. FAQs listed here as well.
