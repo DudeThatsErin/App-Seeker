@@ -1,7 +1,7 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/tools/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
+dg-home: true
+dg-publish: true
 ---
-
 # Welcome Home
 This is where I have everything stored for comparing all of my productivity tools.
 
