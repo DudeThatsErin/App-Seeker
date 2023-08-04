@@ -82,4 +82,4 @@ I had to confirm with support that I had no credit cards on file so after this p
 
 Yes and No. 1Password is fantastic application. It is just expensive so it is hard (for me) to justify the price. Regardless of the features, there are so many bugs, support is super slow and unhelpful, and it doesn’t have that many more features than Bitwarden which is less than half the cost.
 
-I don’t recommend it due to the support. BW has a much more active support forum and while it also relies on Reddit, they also have Twitter and email support and I’ve always had good interactions with emailed support thus far though I haven’t needed them cause Bitwarden works. You can read more about it in my [[Blogs/Software/Bitwarden Review\|Bitwarden Review]].
+I don’t recommend it due to the support. BW has a much more active support forum and while it also relies on Reddit, they also have Twitter and email support and I’ve always had good interactions with emailed support thus far though I haven’t needed them cause Bitwarden works. You can read more about it in my [[Tools/Password Managers/Bitwarden Review\|Bitwarden Review]].
