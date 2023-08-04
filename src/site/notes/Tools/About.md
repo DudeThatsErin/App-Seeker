@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-updated":"2023-08-04T10:25","dg-created":"2023-08-04T10:24","permalink":"/tools/about/","dgPassFrontmatter":true,"created":"2023-08-04T10:24","updated":"2023-08-04T10:25"}
+{"dg-publish":true,"dg-updated":"2023-08-04T10:25","dg-created":"2023-08-04T10:24","dg-path":"About.md","title":"About App Seeker","dg-permalink":"about","permalink":"/about/","dgPassFrontmatter":true,"created":"2023-08-04T10:24","updated":"2023-08-04T10:25"}
 ---
 
 ## Origination
