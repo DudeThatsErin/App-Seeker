@@ -2,6 +2,20 @@
 {"title":"1Password","dg-publish":true,"dg-updated":"2023-08-04T10:52","dg-created":"2023-08-04T09:00","dg-path":"Password Managers/1Password.md","dg-permalink":"pw-managers/1password","URL":"https://1password.com","aliases":["one password","pw","1pw"],"tags":["passwords","management"],"apps":["android","iOS","linux","macOS","web","windows","command line"],"openSource":null,"worksOffline":true,"multiDeviceSync":true,"storageAmount":1,"addlStorage":null,"totpStorage":true,"pwSharing":true,"2FAoptions":true,"noFamily":5,"addFamily":true,"noBusiness":10,"addBusiness":true,"hq":"Toronto,CA","serverLocation":"","priceURL":"https://1password.com/business-pricing","monthPrice":null,"yearPrice":35.88,"freeOption":true,"otpOption":false,"otpPrice":null,"anyDiscounts":true,"discountDescription":"40% off Individual Accounts & 50% off Families Account with CyberNews Coupons","discountURL":["https://start.1password.com/sign-up/individual?c=CYBER40&cjevent=e56cd90716cb11ee80ba005d0a82b824&utm_medium=affiliate&utm_source=Adtech+lt%2C+UAB&utm_campaign=5596782&utm_content=100242223&utm_term=Cyber+News%3A+Enjoy+40%25+Off+Individuals+at+1Password%21+New+Customers+Only%21&cjdata=MXxOfDB8WXww","https://start.1password.com/sign-up/?l=en&c=CYBER23&cjevent=19da89c616cc11ee812cef7b0a82b82d&utm_medium=affiliate&utm_source=Adtech+lt%2C+UAB&utm_campaign=5596782&utm_content=100242223&utm_term=Cyber+News%3A+Enjoy+50%25+Off+Families+at+1Password%21+New+Customers+Only%21&cjdata=MXxOfDB8WXww"],"permalink":"/pw-managers/1password/","dgPassFrontmatter":true,"created":"2023-08-04T09:00","updated":"2023-08-04T10:52"}
 ---
 
+# Pros & Cons
+## Pros
+- Modern Interface with drag & drop capabilities.
+- Ability to save social media logins for websites.
+- Multiple avenues of support (reddit, twitter, their forum, and email)
+- More templates for saving items.
+- Shared vaults to easily share items between accounts.
+## Cons
+- Expensive at $60/year for Families and $36/year for Individuals.
+- Super Buggy (read below on the bugs I have experienced)
+- Confusing to organize items between vaults, categories, and tags.
+- Support via email is super slow. They only email once, maybe twice, a day.
+
+# Review
 [1Password](https://1password.com/) is one of the top password managers out there. It is made for business, personal, enterprise and developer use. It has features that [[Tools/Password Managers/Bitwarden\|Bitwarden]] does not have like saving GitHub Secrets, SSH Secrets/Keys, and more. In my review, I’m going to be going over why I decided to use Bitwarden over 1Password and what I think about it as a developer.
 
 ![1PasswordBlank.png](/img/user/Tools/images/1PasswordBlank.png)
@@ -80,6 +94,34 @@ I had to confirm with support that I had no credit cards on file so after this p
 
 ## Do you recommend 1Password? Do you use it?
 
-Yes and No. 1Password is fantastic application. It is just expensive so it is hard (for me) to justify the price. Regardless of the features, there are so many bugs, support is super slow and unhelpful, and it doesn’t have that many more features than Bitwarden which is less than half the cost.
+Yes and Yes. 1Password is fantastic application. It is just expensive so it is hard (for me) to justify the price. Regardless of the features, there are so many bugs, support is super slow and unhelpful, and it doesn’t have that many more features than Bitwarden which is less than half the cost.
 
-I don’t recommend it due to the support. BW has a much more active support forum and while it also relies on Reddit, they also have Twitter and email support and I’ve always had good interactions with emailed support thus far though I haven’t needed them cause Bitwarden works. You can read more about it in my [[Tools/Password Managers/Bitwarden\|Bitwarden]].
+BW has a much more active support forum and while it also relies on Reddit, they also have Twitter and email support and I’ve always had good interactions with emailed support thus far though I haven’t needed them cause Bitwarden works. You can read more about it in my [[Tools/Password Managers/Bitwarden\|Bitwarden]].
+
+---
+# Other Reviews
+## Articles
+- [Why We Love 1Password for 2023 / Reviews by Wirecutter](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiwwf_XyMiAAxWZQzABHYNsDoQQFnoECBEQAQ&url=https%3A%2F%2Fwww.nytimes.com%2Fwirecutter%2Freviews%2F1password-review%2F&usg=AOvVaw0ARElkfZbxHbNokgKbacCn&opi=89978449)
+- [1Password Review / PC Magazine](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiwwf_XyMiAAxWZQzABHYNsDoQQFnoECBAQAQ&url=https%3A%2F%2Fwww.pcmag.com%2Freviews%2Fagilebits-1password&usg=AOvVaw3hBA5T4huns7Bd8aXw1cLr&opi=89978449)
+- [1Password password manager review / Tom's Guide](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiwwf_XyMiAAxWZQzABHYNsDoQQFnoECBwQAQ&url=https%3A%2F%2Fwww.tomsguide.com%2Freviews%2F1password&usg=AOvVaw3lxv8oEb7x4LkAjgh1fBjq&opi=89978449)
+- [1Password Review - Cloudwards](https://www.cloudwards.net/1password-review/)
+- [1Password Software Reviews, Pros & Cons - Software Advice](https://www.softwareadvice.com/encryption/1password-profile/reviews/)
+- [1Password Review - Tech.co](https://tech.co/password-managers/1password-review)
+## YouTube Videos
+These are all embeded, open the callouts to show the videos and you can watch them right here on our site.
+
+> [!info]- 1Password Review & Tutorial - CyberNews
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/RsVL-qloXq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!info]- Is 1Password Safe in 2023 - CyberNews
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/9pROgt9jdYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!info]- 1Password Review | My thoughts after 1 year of use (Pros vs Cons) - All Things Secured
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/fYuzFSuVREw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!info]- 1Password Walkthrough - All Things Secured
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/_lw8_6wupkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!info]- 1Password vs Bitwarden Honest Review - CyberNews
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/PE0aIdXE8oY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
