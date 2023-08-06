@@ -10,3 +10,15 @@ The biggest request people had was "more information" in the comparisons so I de
 The purpose of this vault/website is to provide a way for anyone to look up the differences in apps. This takes a focus on the *individual* who does not collaborate but *possibly* has a family that they share tasks, notes, or passwords with.
 
 There is little, to no, focus on teams in these apps at this point in time.
+# FAQ
+## There is something wrong with this list, is there a way I can help you fix it?
+Absolutely! Visit the [Contact](https://forms.fillout.com/t/qMsPWCewKVus) page and fill out the form and I will fix whatever you point out. 
+
+Alternatively, you can fork this repo, make changes and merge changes into the main repo. I will take a look at them and add them to the main repo.
+
+Thanks for your help!
+## What are the `.obsidian` and `.obsidianios` folders?
+Those are used for the Obsidian client. `.obsidian` is used on my Windows Desktop while `.obsidianios` is used on my iPad. If you decide to clone this repo, please have the same settings.
+
+## What is the `images` folder?
+That is where any and all images go that I use throughout this website/repo. I add them there and link to them in the appropriate places.
