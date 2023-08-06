@@ -2,6 +2,17 @@
 {"title":"Bitwarden","dg-publish":true,"dg-updated":"2023-08-04T09:30","dg-created":"2023-08-04T09:28","dg-path":"Password Managers/Bitwarden.md","dg-permalink":"pw-managers/bitwarden","URL":"https://bitwarden.com","aliases":["bw","open source pw manager"],"tags":["bw","open","source"],"apps":["android","command line","iOS","linux","macOS","web","windows"],"openSource":true,"worksOffline":true,"multiDeviceSync":true,"storageAmount":1,"addlStorage":true,"totpStorage":true,"pwSharing":true,"2FAoptions":true,"noFamily":6,"addFamily":true,"noBusiness":6,"addBusiness":true,"hq":"Santa Barbara, CA","serverLocation":null,"priceURL":"https://bitwarden.com/pricing/business/","monthPrice":null,"yearPrice":10,"freeOption":true,"otpOption":false,"otpPrice":null,"anyDiscounts":false,"discountDescription":null,"discountURL":[],"permalink":"/pw-managers/bitwarden/","dgPassFrontmatter":true,"created":"2023-08-04T09:28","updated":"2023-08-04T09:30"}
 ---
 
+
+# Pros & Cons
+## Pros
+- Open Source. This means that anyone can see how the source code
+- Public Roadmap. This allows you to view upcoming features and changes and when they expect they could happen. This is a double-edged sword though because they don't always make the deadlines they promise.
+- 3
+## Cons
+- 1 
+- 2
+- 3
+# Review
 [Bitwarden](https://bitwarden.com/) is one of the top password managers out there. It is also one of the only ones that is open-source, that is to say you can see the code that makes the app run and companies that specialize in cyber security can review the code and tell you whether the application is secure and therefore if your passwords can get hacked.
 
 ![bitwarden_preview.png](/img/user/Tools/images/bitwarden_preview.png)
@@ -25,3 +36,9 @@ Since [Bitwarden is open-source](https://github.com/bitwarden) anyone is able to
 
 That isn’t to say an app like 1Password isn’t secure as well. It is up to your personal preference. Though after the [LastPass Hack](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi3msavzef-AhU1tjEKHTm4AQIQFnoECBEQAQ&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Flastpass-engineer-breach-security-roundup%2F&usg=AOvVaw12NvB1cnKxwBbwf4kKsaLY) that just recently happened, I find it hard to trust password managers that hide their code and are not open-source. This kind of hack could happen to any company that allows their users to work from home and does not have tight security on their work computers.
 
+# Other Reviews
+## Articles
+- 1
+- 2
+- 3
+## YouTube Videos
