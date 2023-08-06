@@ -7,7 +7,7 @@
 {%- if URL -%}
 <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl1512303 width=170 style='height:14.5pt;width:128pt'>🔗 URL</td>
-  <td class=xl6512303 width=134 style='width:101pt'>{{ URL }}</td>
+  <td class=xl6512303 width=134 style='width:101pt'><a href="{{ URL }}" target="_blank">{{ title }}</a></td>
  </tr>
 {%- endif -%}
 
@@ -343,7 +343,7 @@
 {%- if priceURL -%}
  <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl1512303 style='height:14.5pt'>💵 URL to Pricing Page</td>
-  <td class=xl1512303><a href="{{ priceURL }}">View Pricing Here</a></td>
+  <td class=xl1512303><a href="{{ priceURL }}" target="_blank">View Pricing Here</a></td>
  </tr>
 {%- endif -%}
 
