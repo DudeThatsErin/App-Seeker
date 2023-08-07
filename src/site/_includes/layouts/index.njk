@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{% if title %}{{ title }} - App Seeker{% else %}{{ page.fileSlug }}{% endif %}</title>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }} - App Seeker{% endif %}</title>
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
