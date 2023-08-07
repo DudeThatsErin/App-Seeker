@@ -22,10 +22,10 @@ lkasdflkjaf
 - [Google Chrome Review 2023 - Cloudwards](https://www.cloudwards.net/google-chrome-review/)
 - [Google Chrome Review - PC Mag](https://www.pcmag.com/reviews/google-chrome)
 ## YouTube Videos
-> [!info]- Everyone Uses Chrome. But Why? - Techquickie
+> [!info-darkrp]- Everyone Uses Chrome. But Why? - Techquickie
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/9NUB6-_mxh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info]- 5 Reasons Edge Beats Chrome - Keven Stratvert
+> [!info-lightpp]- 5 Reasons Edge Beats Chrome - Keven Stratvert
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/ACA6_3qch4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > [!info]- The ULTIMATE Browser Tier List - Eric Murphy
