@@ -46,6 +46,20 @@
  </tr>
 {%- endif -%}
 
+{%- if hasAnAPI == true -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>↔️ API Available for Integrations</td>
+  <td class=xl1512303>✅</td>
+ </tr>
+{%- endif -%}
+
+{%- if hasAnAPI == false -%}
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl1512303 style='height:14.5pt'>↔️ API Available for Integrations</td>
+  <td class=xl1512303>❌</td>
+ </tr>
+{%- endif -%}
+
 {%- if totpStorage == true -%}
  <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl1512303 style='height:14.5pt'>🧩 TOTP Storage</td>
