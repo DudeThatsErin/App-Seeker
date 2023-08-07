@@ -108,20 +108,20 @@ BW has a much more active support forum and while it also relies on Reddit, they
 - [1Password Software Reviews, Pros & Cons - Software Advice](https://www.softwareadvice.com/encryption/1password-profile/reviews/)
 - [1Password Review - Tech.co](https://tech.co/password-managers/1password-review)
 ## YouTube Videos
-These are all embeded, open the callouts to show the videos and you can watch them right here on our site.
+These are all embedded, open the callouts to show the videos and you can watch them right here on our site.
 
-> [!info]- 1Password Review & Tutorial - CyberNews
+> [!info-darkbg]- 1Password Review & Tutorial - CyberNews
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/RsVL-qloXq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info]- Is 1Password Safe in 2023 - CyberNews
+> [!info-darkb]- Is 1Password Safe in 2023 - CyberNews
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/9pROgt9jdYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info]- 1Password Review | My thoughts after 1 year of use (Pros vs Cons) - All Things Secured
+> [!info-darkg]- 1Password Review | My thoughts after 1 year of use (Pros vs Cons) - All Things Secured
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/fYuzFSuVREw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info]- 1Password Walkthrough - All Things Secured
+> [!info-darko]- 1Password Walkthrough - All Things Secured
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/_lw8_6wupkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info]- 1Password vs Bitwarden Honest Review - CyberNews
+> [!info-lighty]- 1Password vs Bitwarden Honest Review - CyberNews
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/PE0aIdXE8oY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
