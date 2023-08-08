@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-updated":"2023-08-04T10:52","dg-created":"2023-08-04T10:24","dg-path":"About.md","title":"About","dg-permalink":"about","dg-pinned":true,"permalink":"/about/","pinned":true,"dgPassFrontmatter":true,"created":"2023-08-04T10:24","updated":"2023-08-04T10:52"}
+{"dg-publish":true,"dg-updated":"2023-08-04T10:52","dg-created":"2023-08-04T10:24","dg-path":"About.md","title":"About","dg-permalink":"about","dg-pinned":false,"permalink":"/about/","dgPassFrontmatter":true,"created":"2023-08-04T10:24","updated":"2023-08-04T10:52"}
 ---
 
 ## Origination
