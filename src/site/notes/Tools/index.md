@@ -25,8 +25,9 @@ Absolutely! Visit the [Contact](https://forms.fillout.com/t/qMsPWCewKVus) page a
 Alternatively, visit our [GitHub Repository](https://github.com/DudeThatsErin/App-Seeker) and create an issue with any issues you would like to address. You can also fork the repo and add your own apps or changes and I will merge them into my own repo.
 
 Thanks for your help!
-## What are the `.obsidian` and `.obsidianios` folders?
-Those are used for the Obsidian client. `.obsidian` is used on my Windows Desktop while `.obsidianios` is used on my iPad. If you decide to clone this repository and use Obsidian to modify the files, please keep the same settings.
-
-## What is the `images` folder?
-That is where any and all images go that I use throughout this website/repo. I add them there and link to them in the appropriate places.
+## Where are the files located?
+When you view the [GitHub Repository](https://github.com/DudeThatsErin/App-Seeker) you will see the following folders:
+![github_repo.png](/img/user/Tools/images/github_repo.png)
+The files are located in the `src` directory. As of writing this there aren't many notes there *but* they are specifically located in `src/site/notes/Tools`
+![github_repo_notes.png](/img/user/Tools/images/github_repo_notes.png)
+If you are looking to contribute or you want to clone this repo so you can access this information in your own Obsidian vault (or just to keep for yourself) that's where you would go to look at the notes.
