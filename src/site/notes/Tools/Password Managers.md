@@ -11,4 +11,4 @@
 
 { .block-language-dataview}
 
-or [[Tools/index\|go back home]]?
+or [[Tools/Home\|go back home]]?
