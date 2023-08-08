@@ -13,7 +13,7 @@
 - Clunky password capture. Sometimes it doesn't even capture passwords unless you do it manually.
 - Send feature allows insecure password sharing. Which means that anyone can view the password and not just the person you share the password with.
 - Appearance of the app is very lacking. It has an old look that is not fun to look at.
-# Review
+# Our Review
 [Bitwarden](https://bitwarden.com/) is one of the top password managers out there. It is also one of the only ones that is open-source, that is to say you can see the code that makes the app run and companies that specialize in cyber security can review the code and tell you whether the application is secure and therefore if your passwords can get hacked.
 
 ![bitwarden_preview.png](/img/user/Tools/images/bitwarden_preview.png)
