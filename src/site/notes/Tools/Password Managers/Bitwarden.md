@@ -7,11 +7,12 @@
 ## Pros
 - Open Source. This means that anyone can see how the source code
 - Public Roadmap. This allows you to view upcoming features and changes and when they expect they could happen. This is a double-edged sword though because they don't always make the deadlines they promise.
-- 3
+- Offers a free tier which is the best option for individuals who don't store 2FA codes with their passwords. Paid plan is also inexpensive at $10/year.
+- Most things can be done via the apps and there is no need for logging into the web vault. Only things that you need the web vault for is to check to see if your information has been leaked and other reports like those.
 ## Cons
-- 1 
-- 2
-- 3
+- Clunky password capture. Sometimes it doesn't even capture passwords unless you do it manually.
+- Send feature allows insecure password sharing. Which means that anyone can view the password and not just the person you share the password with.
+- Appearance of the app is very lacking. It has an old look that is not fun to look at.
 # Review
 [Bitwarden](https://bitwarden.com/) is one of the top password managers out there. It is also one of the only ones that is open-source, that is to say you can see the code that makes the app run and companies that specialize in cyber security can review the code and tell you whether the application is secure and therefore if your passwords can get hacked.
 
@@ -38,7 +39,13 @@ That isn’t to say an app like 1Password isn’t secure as well. It is up to yo
 
 # Other Reviews
 ## Articles
-- 1
-- 2
-- 3
+- [Bitwarden Review | PCMag](https://www.pcmag.com/reviews/bitwarden#:~:text=The%20Bottom%20Line,at%20an%20extremely%20low%20price.&text=PCMag%20editors%20select%20and%20review%20products%20independently.)
+- [Bitwarden Review 2023 — Open-Source, But Is It Good? (safetydetectives.com)](https://www.safetydetectives.com/best-password-managers/bitwarden/)
+- [Bitwarden password manager | TechRadar](https://www.techradar.com/reviews/bitwarden)
 ## YouTube Videos
+> [!info]- Bitwarden Review 2023 | Is it actually secure? - The Cyber Lab
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/kXg02mmMako" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!info-darkp]- The Most Important Bitwarden Setting You Never Heard Of - Jason Rebholz - TeachMeCyber
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/ELp3V1j3rhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
