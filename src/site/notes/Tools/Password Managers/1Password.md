@@ -14,6 +14,7 @@
 - Super Buggy (read below on the bugs I have experienced)
 - Confusing to organize items between vaults, categories, and tags.
 - Support via email is super slow. They only email once, maybe twice, a day.
+- Sharing vaults can only be done via the web vault. You cannot do that via the apps.
 
 # Review
 [1Password](https://1password.com/) is one of the top password managers out there. It is made for business, personal, enterprise and developer use. It has features that [[Tools/Password Managers/Bitwarden\|Bitwarden]] does not have like saving GitHub Secrets, SSH Secrets/Keys, and more. In my review, I’m going to be going over why I decided to use Bitwarden over 1Password and what I think about it as a developer.
