@@ -14,7 +14,7 @@ You can view all of the pages in the left sidebar by clicking the 3 lines next t
 
 [[Read-it-Later Apps\|Read-it-Later Apps]] - View a comparison of all of the Read-it-Later apps in this list.
 
-[[Browsers\|Browsers]] - View a comparison of all of the Browsers in this list.
+[[Tools/Browsers\|Browsers]] - View a comparison of all of the Browsers in this list.
 
 [[Tools/About\|About]] - Read about App Seeker and where it originated.
 
