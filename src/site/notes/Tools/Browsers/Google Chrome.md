@@ -1,5 +1,5 @@
 ---
-{"title":"Google Chrome","dg-publish":true,"dg-updated":"2023-08-07T12:20","dg-created":"2023-08-07T11:16","dg-path":"Browsers/Google Chrome.md","dg-permalink":"browsers/chrome","URL":"https://chrome.google.com","aliases":["chrome","browser"],"tags":["chrome","browser"],"apps":["android","iOS","linux","macOS","windows"],"openSource":null,"multiDeviceSync":true,"pluginSupport":true,"permalink":"/browsers/chrome/","dgPassFrontmatter":true,"created":"2023-08-07T11:16","updated":"2023-08-07T12:20"}
+{"title":"Google Chrome","dg-publish":true,"dg-updated":"2023-08-08T09:20","dg-created":"2023-08-07T11:16","dg-path":"Browsers/Google Chrome.md","dg-permalink":"browsers/chrome","URL":"https://chrome.google.com","aliases":["chrome","browser"],"tags":["chrome","browser"],"apps":["android","iOS","linux","macOS","windows"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/chrome/","dgPassFrontmatter":true,"created":"2023-08-07T11:16","updated":"2023-08-08T09:20"}
 ---
 
 # Pros & Cons
@@ -14,8 +14,8 @@
 - No reading mode or built-in social sharing.
 - Cluttered interface.
 - Settings are hard to find.
-# Review
-lkasdflkjaf
+# Our Review
+[Google Chrome](https://chrome.google.com) is available on all of your devices. It is available.
 # Other Reviews
 ## Articles
 - [Google Chrome Reviews - G2](https://www.g2.com/products/chrome/reviews)
@@ -30,4 +30,7 @@ lkasdflkjaf
 
 > [!info]- The ULTIMATE Browser Tier List - Eric Murphy
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/j5r6jFE8gic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+>[!info-lightr]- Best Mobile Browser (2023) | Top Picks Reviewed - The Cyber Lab
+><iframe width="560" height="315" src="https://www.youtube.com/embed/xHNEgDdrTI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
