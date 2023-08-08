@@ -4,7 +4,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{% if title %}{{ title }} - AppSeeker{% else %}{{ page.fileSlug }} - AppSeeker{% endif %}</title>
+    <title>{% if title %}{{ title }} - AppSeeker{% else %}{{ page.fileSlug }} - App Seeker{% endif %}</title>
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
