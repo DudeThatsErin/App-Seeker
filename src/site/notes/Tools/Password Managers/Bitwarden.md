@@ -23,9 +23,9 @@ Bitwarden recently went through a face lift and now their desktop applications, 
 
 You can see that they updated this to have a more rounded look. It is a subtle change and not something you can see on the web vault (yet). I hope they bring it to the web vault sometime soon.
 
-While it may not look as nice as [[Blogs/Software/1Password Review\|1Password]] it functions **much better**.
+While it may not look as nice as [[1Password Review\|1Password]] it functions **much better**.
 ![](https://1password.com/img/redesign/homepage/device-hero-desktop@2x.ea940e03d0630708992d69e6e3967005.png)
-You can read my [[Blogs/Software/1Password Review\|1Password Review]] to understand all of my gripes with it. I will just say that it can be a bit buggy because it is trying to carry too many hats.
+You can read my [[1Password Review\|1Password Review]] to understand all of my gripes with it. I will just say that it can be a bit buggy because it is trying to carry too many hats.
 
 ## Is Bitwarden Glitchy/Buggy?
 No, not in the slightest. The only visual glitch I have seen is that on the Apple Watch their complication (widget) displays as 2 lines instead of showing the Bitwarden logo. See the picture below. It doesn’t matter where this complication is placed, it is always two dashes. Which is just frustrating.
