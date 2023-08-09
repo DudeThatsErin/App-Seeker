@@ -5,6 +5,7 @@
 
 | File                                               | Available on?                                                                     | Open Source | Offline Support | Multi-Device Sync | Extension Support |
 | -------------------------------------------------- | --------------------------------------------------------------------------------- | ----------- | --------------- | ----------------- | ----------------- |
+| [[Tools/Browsers/Firefox\|Firefox]]             | <ul><li>android</li><li>iOS</li><li>linux</li><li>macOS</li><li>windows</li></ul> | ❌           | ❌               | ✅                 | ✅                 |
 | [[Tools/Browsers/Google Chrome\|Google Chrome]] | <ul><li>android</li><li>iOS</li><li>linux</li><li>macOS</li><li>windows</li></ul> | ❌           | ❌               | ✅                 | ✅                 |
 
 { .block-language-dataview}
