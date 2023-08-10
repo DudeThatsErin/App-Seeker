@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-updated":"2023-08-04T10:52","dg-created":"2023-08-04T10:24","dg-path":"About.md","title":"About","dg-permalink":"about","dg-pinned":false,"permalink":"/about/","dgPassFrontmatter":true,"created":"2023-08-04T10:24","updated":"2023-08-04T10:52"}
+{"dg-publish":true,"dg-updated":"2023-08-04T09:48","dg-created":"2023-08-04T10:24","dg-path":"About.md","title":"About","dg-permalink":"about","dg-pinned":false,"permalink":"/about/","dgPassFrontmatter":true,"created":"2023-08-04T10:24","updated":"2023-08-04T09:48"}
 ---
 
 ## Origination
@@ -10,3 +10,9 @@ The biggest request people had was "more information" in the comparisons so I de
 The purpose of this vault/website is to provide a way for anyone to look up the differences in apps. This takes a focus on the *individual* who does not collaborate but *possibly* has a family that they share tasks, notes, or passwords with.
 
 There is little, to no, focus on teams in these apps at this point in time.
+
+# Credits
+- [Obsidian](https://obsidian.md) - Software I use to write and publish everything.
+- [GitHub](https://github.com/DudeThatsErin/App-Seeker) - Platform where I back up the files as well what I use to publish them to this website.
+- [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden) - The plugin I use within Obsidian to publish these files to the web. Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/).
+- [Netifly](https://netifly.com) - The service I use to convert the files to a website you can view and interact with.
