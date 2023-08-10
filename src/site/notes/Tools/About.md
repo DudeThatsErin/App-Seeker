@@ -15,4 +15,5 @@ There is little, to no, focus on teams in these apps at this point in time.
 - [Obsidian](https://obsidian.md) - Software I use to write and publish everything.
 - [GitHub](https://github.com/DudeThatsErin/App-Seeker) - Platform where I back up the files as well what I use to publish them to this website.
 - [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden) - The plugin I use within Obsidian to publish these files to the web. Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/).
-- [Netlifly](https://netlifly.com) - The service I use to convert the files to a website you can view and interact with.
+- [Netlify](https://www.netlify.com/?attr=homepage-modal) - The service I use to convert the files to a website you can view and interact with.
+
