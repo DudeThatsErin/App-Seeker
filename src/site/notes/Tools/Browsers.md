@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-updated":"2023-08-08T10:10","dg-created":"2023-08-08T10:07","title":"Browsers","dg-permalink":"browsers","dg-path":"Browsers.md","permalink":"/browsers/","dgPassFrontmatter":true,"created":"2023-08-08T10:07","updated":"2023-08-08T10:10"}
+{"dg-publish":true,"dg-updated":"2023-08-10T09:27","dg-created":"2023-08-08T10:07","title":"Browsers","dg-permalink":"browsers","dg-path":"Browsers.md","permalink":"/browsers/","dgPassFrontmatter":true,"created":"2023-08-08T10:07","updated":"2023-08-10T09:27"}
 ---
 
 
@@ -13,3 +13,5 @@
 { .block-language-dataview}
 
 or [[Tools/Home\|go back home]]?
+
+or [[Tools/Password Managers\|compare password managers]]?
