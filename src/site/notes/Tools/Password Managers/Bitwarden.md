@@ -43,9 +43,26 @@ That isn’t to say an app like 1Password isn’t secure as well. It is up to yo
 - [Bitwarden Review 2023 — Open-Source, But Is It Good? (safetydetectives.com)](https://www.safetydetectives.com/best-password-managers/bitwarden/)
 - [Bitwarden password manager | TechRadar](https://www.techradar.com/reviews/bitwarden)
 ## YouTube Videos
+These are all embedded, open the callouts to show the videos and you can watch them right here on our site.
+
 > [!info]- Bitwarden Review 2023 | Is it actually secure? - The Cyber Lab
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/kXg02mmMako" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > [!info-darkp]- The Most Important Bitwarden Setting You Never Heard Of - Jason Rebholz - TeachMeCyber
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/ELp3V1j3rhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+>[!info-lightbg]- Bitwarden review: free, but with privacy concerns? - CyberNews
+><iframe width="560" height="315" src="https://www.youtube.com/embed/8Pw-cmGB7Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!info-lightpp]- Steve's Next Password Manager after the LastPass Hack - TWiT Tech Podcast Network
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/9XWHCF4pLmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!info-lightdb]- STOP Using Your Password Manager NOW! - Pete Matheson
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/oZzisbY7fYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!info-lightg]- Bitwarden Tutorial | The Full Beginners Guide - Jason Rebholz - TeachMeCyber
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/OkYKb0Sx-XA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!info-lighty]- Best Password Manager 2023 - Ultimate Comparison - Pete Matheson
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/99P59LS1rrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
