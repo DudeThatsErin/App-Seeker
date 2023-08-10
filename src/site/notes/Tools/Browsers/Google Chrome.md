@@ -1,5 +1,5 @@
 ---
-{"title":"Google Chrome","dg-publish":true,"dg-updated":"2023-08-08T14:20","dg-created":"2023-08-07T11:16","dg-path":"Browsers/Google Chrome.md","dg-permalink":"browsers/chrome","URL":"https://chrome.google.com","aliases":["chrome","browser"],"tags":["chrome","browser"],"apps":["android","iOS","linux","macOS","windows"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/chrome/","dgPassFrontmatter":true,"created":"2023-08-07T11:16","updated":"2023-08-08T14:20"}
+{"title":"Google Chrome","dg-publish":true,"dg-updated":"2023-08-10T09:18","dg-created":"2023-08-07T11:16","dg-path":"Browsers/Google Chrome.md","dg-permalink":"browsers/chrome","URL":"https://chrome.google.com","aliases":["chrome","browser"],"tags":["chrome","browser"],"apps":["android","iOS","linux","macOS","windows"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/chrome/","dgPassFrontmatter":true,"created":"2023-08-07T11:16","updated":"2023-08-10T09:18"}
 ---
 
 # Pros & Cons
@@ -31,17 +31,19 @@ Alphabet owns Google. They are an advertising company through and through. This 
 Overall, it is very smooth. It is very rare that I visit a website that doesn't work in Chrome. Most websites are made for Chrome and then [[Tools/Browsers/Firefox\|Firefox]] and [[Safari\|Safari]] so while it is unlikely you will see a website not work in [[Safari\|Safari]] or Chrome, you are more likely to see one not work in [[Tools/Browsers/Firefox\|Firefox]] and I have come across some that do not work in [[Tools/Browsers/Firefox\|Firefox]].
 
 ## Does Chrome use all of your RAM?
-It does take a lot of it. I have 29 processes running with Chrome (currently) and it is using 877mb of RAM on average. Which doesn't sound like a lot except when you compare it to [[Microsoft Edge\|Microsoft Edge]] which currently has 51 processes running and it is using 950mb of RAM on average. So, Chrome uses more RAM on average than other browsers running the same tasks.
+It does take a lot of it. I have 29 processes running with Chrome (currently) and it is using 877mb of RAM on average. Which doesn't sound like a lot except when you compare it to [[Tools/Browsers/Microsoft Edge\|Microsoft Edge]] which currently has 51 processes running and it is using 950mb of RAM on average. So, Chrome uses more RAM on average than other browsers running the same tasks.
 ### I don't know all of this tech jargon, what does this all mean?
 This just means you are more likely to have your computer slow down when you have too many tabs/pages open in Chrome. The amount of RAM you have in your computer determines how much your computer can multi-task at one time.
 ## Do you use Chrome?
-Yes, I switched over to Chrome from [[Microsoft Edge\|Microsoft Edge]] this week and while Edge has treated me well, I decided to switch to Chrome because it has more plugins available, Chrome isn't pushing AI in your face with their search and Google Search is default, not Bing which has gotten better over the years but nothing will beat Google Search.
+Yes, I switched over to Chrome from [[Tools/Browsers/Microsoft Edge\|Microsoft Edge]] this week and while Edge has treated me well, I decided to switch to Chrome because it has more plugins available, Chrome isn't pushing AI in your face with their search and Google Search is default, not Bing which has gotten better over the years but nothing will beat Google Search.
 # Other Reviews
 ## Articles
 - [Google Chrome Reviews - G2](https://www.g2.com/products/chrome/reviews)
 - [Google Chrome Review 2023 - Cloudwards](https://www.cloudwards.net/google-chrome-review/)
 - [Google Chrome Review - PC Mag](https://www.pcmag.com/reviews/google-chrome)
 ## YouTube Videos
+These are all embedded, open the callouts to show the videos and you can watch them right here on our site.
+
 > [!info-darkrp]- Everyone Uses Chrome. But Why? - Techquickie
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/9NUB6-_mxh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -53,4 +55,7 @@ Yes, I switched over to Chrome from [[Microsoft Edge\|Microsoft Edge]] this week
 
 >[!info-lightr]- Best Mobile Browser (2023) | Top Picks Reviewed - The Cyber Lab
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/xHNEgDdrTI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!info-lightbg]- Chrome & Firefox Security Tips You Need to Know - ThioJoe
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/9SraN9V23WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
