@@ -7,7 +7,7 @@
 | ---------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------- | ----------------- |
 | [[Tools/Browsers/Firefox\|Firefox]]               | <ul><li>android</li><li>iOS</li><li>linux</li><li>macOS</li><li>windows</li></ul> | ✅                 | ✅                 |
 | [[Tools/Browsers/Google Chrome\|Google Chrome]]   | <ul><li>android</li><li>iOS</li><li>linux</li><li>macOS</li><li>windows</li></ul> | ✅                 | ✅                 |
-| [[Tools/Browsers/Microsoft Edge\|Microsoft Edge]] | \-                                                                                | ❌                 | ❌                 |
+| [[Tools/Browsers/Microsoft Edge\|Microsoft Edge]] | <ul><li>android</li><li>iOS</li><li>macOS</li><li>windows</li><li>linux</li></ul> | ✅                 | ✅                 |
 | [[Tools/Browsers/Brave\|Brave]]                   | \-                                                                                | ❌                 | ❌                 |
 
 { .block-language-dataview}
