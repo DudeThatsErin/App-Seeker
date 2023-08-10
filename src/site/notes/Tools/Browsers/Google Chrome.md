@@ -1,5 +1,5 @@
 ---
-{"title":"Google Chrome","dg-publish":true,"dg-updated":"2023-08-10T09:18","dg-created":"2023-08-07T11:16","dg-path":"Browsers/Google Chrome.md","dg-permalink":"browsers/chrome","URL":"https://chrome.google.com","aliases":["chrome","browser"],"tags":["chrome","browser"],"apps":["android","iOS","linux","macOS","windows"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/chrome/","dgPassFrontmatter":true,"created":"2023-08-07T11:16","updated":"2023-08-10T09:18"}
+{"title":"Google Chrome","dg-publish":true,"dg-updated":"2023-08-10T09:43","dg-created":"2023-08-07T11:16","dg-path":"Browsers/Google Chrome.md","dg-permalink":"browsers/chrome","URL":"https://chrome.google.com","aliases":["chrome","browser"],"tags":["chrome","browser"],"apps":["android","iOS","linux","macOS","windows"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/chrome/","dgPassFrontmatter":true,"created":"2023-08-07T11:16","updated":"2023-08-10T09:43"}
 ---
 
 # Pros & Cons
@@ -15,7 +15,7 @@
 - Cluttered interface.
 - Settings are hard to find.
 # Our Review
-![](non-chrome.webm)
+![Google Chrome.png](/img/user/Tools/images/Google%20Chrome.png)
 [Google Chrome](https://chrome.google.com) is available on all of your devices. It has taken over the market since it was released in 2008. It was released on Windows originally with versions later released for Linux, MacOS, iOS, and Android. It is also the main component of ChromeOS where it serves as the platform for web applications.
 
 According to [StatCounter](https://en.wikipedia.org/wiki/StatCounter), Chrome has a 67% worldwide browser market share (after peaking at 72.38% in November 2018) on Windows and is most used on tablets (having surpassed Safari) and is also dominant on smartphones and at 65% across all platforms combined. This makes it the most used web browser in the world today.
