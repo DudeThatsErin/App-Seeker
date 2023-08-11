@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-created":"2023-08-01T10:25","dg-updated":"2023-08-08T08:38","title":null,"dg-path":"Welcome Home.md","dg-pinned":true,"permalink":"/welcome-home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-08-01T10:25","updated":"2023-08-08T08:38"}
+{"dg-home":true,"dg-publish":true,"dg-created":"2023-08-01T10:25","dg-updated":"2023-08-11T07:43","title":null,"dg-path":"Welcome Home.md","dg-pinned":true,"permalink":"/welcome-home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-08-01T10:25","updated":"2023-08-11T07:43"}
 ---
 
 # Welcome to App Seeker!
@@ -31,3 +31,5 @@ When you view the [GitHub Repository](https://github.com/DudeThatsErin/App-Seeke
 The files are located in the `src` directory. As of writing this there aren't many notes there *but* they are specifically located in `src/site/notes/Tools`
 ![github_repo_notes.png](/img/user/Tools/images/github_repo_notes.png)
 If you are looking to contribute or you want to clone this repo so you can access this information in your own Obsidian vault (or just to keep for yourself) that's where you would go to look at the notes.
+
+Please make sure to link yourself somewhere in the note where you updated information so that I can make sure to give you credit!
