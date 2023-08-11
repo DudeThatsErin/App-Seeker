@@ -8,15 +8,17 @@ This is where I have everything stored for comparing all of my productivity tool
 ---
 You can view all of the pages in the left sidebar by clicking the 3 lines next to "App Seeker".
 
-[[Tools/Password Managers\|Password Managers]] - View a comparison of all of the password managers in this list.
+[[Tools/Password Managers\|Password Managers]] - View a comparison of all of the password managers we have reviewed.
 
-[[Task Managers\|Task Managers]] - View a comparison of all of the task managers in this list.
+[[Task Managers\|Task Managers]] - View a comparison of all of the task managers we have reviewed.
 
-[[Read-it-Later Apps\|Read-it-Later Apps]] - View a comparison of all of the Read-it-Later apps in this list.
+[[Read-it-Later Apps\|Read-it-Later Apps]] - View a comparison of all of the Read-it-Later apps we have reviewed.
 
-[[Tools/Browsers\|Browsers]] - View a comparison of all of the Browsers in this list.
+[[Tools/Browsers\|Browsers]] - View a comparison of all of the Browsers we have reviewed.
 
-[[Tools/About\|About]] - Read about App Seeker and where it originated.
+[[VPNs\|VPNs]] - View a comparison of all of the VPNs we have reviewed.
+
+[[Tools/About\|About]] - Read about who I am and App Seeker and where it originated.
 
 # FAQ
 ## There is something wrong with this list, is there a way I can help you fix it?
