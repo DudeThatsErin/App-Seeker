@@ -5,10 +5,14 @@
 
 | File                                                 | Available on?                                                                     | Multi-Device Sync | Extension Support |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------- | ----------------- |
-| [[Tools/Browsers/Firefox\|Firefox]]               | <ul><li>android</li><li>iOS</li><li>linux</li><li>macOS</li><li>windows</li></ul> | ✅                 | ✅                 |
+| [[Tools/Browsers/Brave\|Brave]]                   | <ul></ul>                                                                         | ❌                 | ❌                 |
 | [[Tools/Browsers/Google Chrome\|Google Chrome]]   | <ul><li>android</li><li>iOS</li><li>linux</li><li>macOS</li><li>windows</li></ul> | ✅                 | ✅                 |
+| [[Tools/Browsers/Arc\|Arc]]                       | <ul><li>iPhone</li><li>macOS</li></ul>                                            | ❌                 | ✅                 |
+| [[Tools/Browsers/Firefox\|Firefox]]               | <ul><li>android</li><li>iOS</li><li>linux</li><li>macOS</li><li>windows</li></ul> | ✅                 | ✅                 |
 | [[Tools/Browsers/Microsoft Edge\|Microsoft Edge]] | <ul><li>android</li><li>iOS</li><li>macOS</li><li>windows</li><li>linux</li></ul> | ✅                 | ✅                 |
-| [[Tools/Browsers/Brave\|Brave]]                   | \-                                                                                | ❌                 | ❌                 |
+| [[Tools/Browsers/Opera\|Opera]]                   | <ul></ul>                                                                         | ❌                 | ❌                 |
+| [[Tools/Browsers/Safari\|Safari]]                 | <ul></ul>                                                                         | ❌                 | ❌                 |
+| [[Tools/Browsers/Vivaldi\|Vivaldi]]               | <ul></ul>                                                                         | ❌                 | ❌                 |
 
 { .block-language-dataview}
 
