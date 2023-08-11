@@ -54,3 +54,6 @@ These are all embedded, open the callouts to show the videos and you can watch t
 > [!info-lightr]- Chrome & Firefox Security Tips You Need to Know - ThioJoe
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/9SraN9V23WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+>[!info]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
+><iframe width="560" height="315" src="https://www.youtube.com/embed/j5r6jFE8gic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
