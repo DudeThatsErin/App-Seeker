@@ -28,7 +28,7 @@ They tout that you can generate strong passwords on every site and "Check your s
 Alphabet owns Google. They are an advertising company through and through. This means they want as much of your data as possible to send you targeted ads because that is how they make money. So, you can only be so safe with Google.
 
 ## How does Chrome work day-to-day?
-Overall, it is very smooth. It is very rare that I visit a website that doesn't work in Chrome. Most websites are made for Chrome and then [[Tools/Browsers/Firefox\|Firefox]] and [[Tools/Browsers/Safari\|Safari]] so while it is unlikely you will see a website not work in [[Tools/Browsers/Safari\|Safari]] or Chrome, you are more likely to see one not work in [[Tools/Browsers/Firefox\|Firefox]] and I have come across some that do not work in [[Tools/Browsers/Firefox\|Firefox]].
+Overall, it is very smooth. It is very rare that I visit a website that doesn't work in Chrome. Most websites are made for Chrome and then [[Tools/Browsers/FireFox\|Firefox]] and [[Tools/Browsers/Safari\|Safari]] so while it is unlikely you will see a website not work in [[Tools/Browsers/Safari\|Safari]] or Chrome, you are more likely to see one not work in [[Tools/Browsers/FireFox\|Firefox]] and I have come across some that do not work in [[Tools/Browsers/FireFox\|Firefox]].
 
 ## Does Chrome use all of your RAM?
 It does take a lot of it. I have 29 processes running with Chrome (currently) and it is using 877mb of RAM on average. Which doesn't sound like a lot except when you compare it to [[Tools/Browsers/Microsoft Edge\|Microsoft Edge]] which currently has 51 processes running and it is using 950mb of RAM on average. So, Chrome uses more RAM on average than other browsers running the same tasks.
