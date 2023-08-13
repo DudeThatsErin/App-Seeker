@@ -69,6 +69,7 @@ module.exports = async (data) => {
     siteBaseUrl: baseUrl,
     styleSettingsCss,
     buildDate: new Date(),
+    author
   };
 
   return meta;
