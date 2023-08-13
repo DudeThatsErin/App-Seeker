@@ -51,6 +51,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
             {%- if meta.timestampSettings.showUpdated and updated -%}
             <div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
             {%- endif -%}
+            {%- if author -%}
+            <div><i icon-name="user-circle-2"></i> <span class="author" data="{{author}}"></span></div>
           </div>
           {%- endif -%}
         </div>
