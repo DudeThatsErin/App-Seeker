@@ -1,5 +1,5 @@
 ---
-{"title":"Mozilla Firefox","dg-publish":true,"dg-updated":"2023-08-10T10:06","dg-created":"2023-08-09T09:06","dg-path":"Browsers/Firefox.md","dg-permalink":"browsers/firefox","URL":"https://www.mozilla.org/en-US/firefox/new/","aliases":[],"tags":["browser","mozilla","nonprofit","firefox"],"apps":["android","iOS","linux","macOS","windows"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/firefox/","dgPassFrontmatter":true,"created":"2023-08-09T09:06","updated":"2023-08-10T10:06"}
+{"title":"Mozilla Firefox","dg-publish":true,"dg-updated":"2023-08-10T10:06","dg-created":"2023-08-09T09:06","dg-path":"Browsers/Firefox.md","dg-permalink":"browsers/firefox","author":"Erin Skidds","URL":"https://www.mozilla.org/en-US/firefox/new/","aliases":[],"tags":["browser","mozilla","nonprofit","firefox"],"apps":["android","iOS","linux","macOS","windows"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/firefox/","dgPassFrontmatter":true,"created":"2023-08-09T09:06","updated":"2023-08-10T10:06"}
 ---
 
 # Pros & Cons
