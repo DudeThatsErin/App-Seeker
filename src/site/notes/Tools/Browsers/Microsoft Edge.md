@@ -1,5 +1,5 @@
 ---
-{"title":"Microsoft Edge","dg-publish":true,"dg-updated":"2023-08-11T08:45","dg-created":"2023-08-10T09:27","dg-path":"Browsers/Microsoft Edge.md","dg-permalink":"browsers/edge","author":"Erin Skidds","URL":"https://www.microsoft.com/en-us/edge/download?form=MA13FJ","aliases":["windows","edge","microsoft"],"tags":["windows","edge","microsoft"],"apps":["android","iOS","macOS","windows","linux"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/edge/","dgPassFrontmatter":true,"created":"2023-08-10T09:27","updated":"2023-08-11T08:45"}
+{"title":"Microsoft Edge","dg-publish":true,"dg-updated":"2023-08-11T08:45","dg-created":"2023-08-10T09:27","dg-path":"Browsers/Microsoft Edge.md","dg-permalink":"browsers/edge","dg-author":"Erin Skidds","URL":"https://www.microsoft.com/en-us/edge/download?form=MA13FJ","aliases":["windows","edge","microsoft"],"tags":["windows","edge","microsoft"],"apps":["android","iOS","macOS","windows","linux"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/edge/","dgPassFrontmatter":true,"created":"2023-08-10T09:27","updated":"2023-08-11T08:45"}
 ---
 
 # Pros & Cons
