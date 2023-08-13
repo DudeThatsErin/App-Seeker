@@ -34,4 +34,6 @@ The files are located in the `src` directory. As of writing this there aren't ma
 ![github_repo_notes.png](/img/user/Tools/images/github_repo_notes.png)
 If you are looking to contribute or you want to clone this repo so you can access this information in your own Obsidian vault (or just to keep for yourself) that's where you would go to look at the notes.
 
-Please make sure to link yourself somewhere in the note where you updated information so that I can make sure to give you credit!
+Please make sure to add your information in the `Editor` and `EditorURL` fields in the YAML before pushing your fork. This automatically provides credit on the site to you for having updated any pages.
+
+If you have any questions, feel free to let me know by opening an issue on the GitHub repo or sending me an email.
