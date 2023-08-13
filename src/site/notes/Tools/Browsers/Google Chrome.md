@@ -1,5 +1,5 @@
 ---
-{"title":"Google Chrome","dg-publish":true,"dg-updated":"2023-08-10T09:43","dg-created":"2023-08-07T11:16","dg-path":"Browsers/Google Chrome.md","dg-permalink":"browsers/chrome","author":"Erin Skidds","URL":"https://chrome.google.com","aliases":["chrome","browser"],"tags":["chrome","browser"],"apps":["android","iOS","linux","macOS","windows"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/chrome/","dgPassFrontmatter":true,"created":"2023-08-07T11:16","updated":"2023-08-10T09:43"}
+{"title":"Google Chrome","dg-publish":true,"dg-updated":"2023-08-10T09:43","dg-created":"2023-08-07T11:16","dg-path":"Browsers/Google Chrome.md","dg-permalink":"browsers/chrome","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://chrome.google.com","aliases":["chrome","browser"],"tags":["chrome","browser"],"apps":["android","iOS","linux","macOS","windows"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/chrome/","dgPassFrontmatter":true,"created":"2023-08-07T11:16","updated":"2023-08-10T09:43"}
 ---
 
 # Pros & Cons
