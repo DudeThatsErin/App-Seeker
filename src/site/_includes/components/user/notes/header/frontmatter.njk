@@ -4,6 +4,20 @@
 
 <table style="width: 100%;">
 
+{%- if author -%}
+<tr height=19 style='height:14.5pt'>
+  <td height=19 class=x1512303 width=170 style='height:14.5pt;width:128pt'>👩‍💻 Author</td>
+  <td class=x16512303 width=134 style='width:101pt'><a href="{{authorURL}}" target="_blank">{{author}}</a></td>
+</tr>
+{%- endif -%}
+
+{%- if editor -%}
+<tr height=19 style='height:14.5pt'>
+  <td height=19 class=x1512303 width=170 style='height:14.5pt;width:128pt'>🧑‍💻 Updated By</td>
+  <td class=x16512303 width=134 style='width:101pt'><a href="{{editorURL}}" target="_blank">{{editor}}</a></td>
+</tr>
+{%- endif -%}
+
 {%- if URL -%}
 <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl1512303 width=170 style='height:14.5pt;width:128pt'>🔗 URL</td>
