@@ -12,7 +12,7 @@
 | [[Tools/Browsers/Arc\|Arc]]                       | <ul><li>iPhone</li><li>macOS</li></ul>                                                               | ❌                 | ✅                 |
 | [[Tools/Browsers/Safari\|Safari]]                 | <ul></ul>                                                                                            | ❌                 | ❌                 |
 | [[Tools/Browsers/Opera\|Opera]]                   | <ul><li>Chromebook</li><li>iOS</li><li>Android</li><li>Windows</li><li>Linux</li><li>macOS</li></ul> | ✅                 | ✅                 |
-| [[Tools/Browsers/Brave\|Brave]]                   | <ul></ul>                                                                                            | ❌                 | ❌                 |
+| [[Tools/Browsers/Brave\|Brave]]                   | <ul></ul>                                                                                            | ✅                 | ✅                 |
 
 { .block-language-dataview}
 
