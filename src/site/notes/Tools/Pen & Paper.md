@@ -18,7 +18,7 @@
 # Our Review
 Pencil & Paper is very easy to use. You just grab what you have laying around your home and start writing. It couldn't be easier.
 ![notebook.png](/img/user/Tools/images/notebook.png)
-You can read all of my views in the Pros & Cons section above. I do not have much to say besides that. You can read the articles and reviews below to learn what other people think on this topic.
+You can read all of my views in the Pros & Cons section above. I do not have much to say besides that. You can read the articles and reviews below to learn what other people think on this topic. 
 # Other Reviews
 ## Articles
 - [Study Reveals the Advantages of Taking Notes by Hand | Observatory](https://observatory.tec.mx/edu-news/study-reveals-the-advantages-of-taking-notes-by-hand/#:~:text=Similarly%2C%20several%20studies%20have%20reported,on%20paper%20improves%20conceptual%20understanding.)
