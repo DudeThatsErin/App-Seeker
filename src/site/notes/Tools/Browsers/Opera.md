@@ -6,7 +6,7 @@
 ## Pros
 - All-in-one browser that allows you to manage your emails, calendar, bookmarks, and more in this browser. You don't need to use any other apps.
 - Opera GX includes RAM management utilities to make sure the browser is nto using too much ofyour computer's resources
-- Customization is limitless. You can have a VPN and all of the apps or you can disable them all. You can get a unique experience tailored to you.
+- Customization is limitless. You can have a VPN and all of the apps or you can disable them all. You can get a unique experience tailored to you. 
 ## Cons
 - RAM Management with Opera Mini (mobile browsers) is not very good and pages tend to reload when you try to switch from one app and back to the browser.
 - Can use more RAM than Chrome.
