@@ -8,7 +8,7 @@
 - Ability to save social media logins for websites.
 - Multiple avenues of support (reddit, twitter, their forum, and email)
 - More templates for saving items.
-- Shared vaults to easily share items between accounts.
+- Shared vaults to easily share items between accounts. 
 ## Cons
 - Expensive at $60/year for Families and $36/year for Individuals.
 - Super Buggy (read below on the bugs I have experienced)
