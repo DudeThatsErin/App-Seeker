@@ -1,5 +1,5 @@
 ---
-{"title":"Opera & Opera GX","dg-publish":true,"dg-updated":"2023-08-12T18:00","dg-created":"2023-08-12T14:00","dg-path":"Browsers/Opera.md","dg-permalink":"browsers/opera","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","URL":"https://www.opera.com/","aliases":[],"tags":[],"apps":["Chromebook","iOS","Android","Windows","Linux","macOS"],"openSource":false,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/opera/","dgPassFrontmatter":true,"created":"2023-08-12T14:00","updated":"2023-08-12T18:00"}
+{"title":"Opera & Opera GX","dg-publish":true,"dg-updated":"2023-08-12T18:00","dg-created":"2023-08-12T14:00","dg-path":"Browsers/Opera.md","dg-permalink":"browsers/opera","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","URL":"https://www.opera.com/","aliases":[],"tags":[],"apps":["Chromebook","iOS","Windows","Linux","macOS","android"],"openSource":false,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/opera/","dgPassFrontmatter":true,"created":"2023-08-12T14:00","updated":"2023-08-12T18:00"}
 ---
 
 # Pros & Cons
