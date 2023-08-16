@@ -4,7 +4,7 @@
 
 # Pros & Cons
 ## Pros
-- New look to the browser experience means that your web browsing experience can be more aesthetically pleasing.
+- New look to the browser experience means that your web browsing experience can be more aesthetically pleasing. 
 - More keyboard shortcuts means you can do a lot more browsing with your keyboard than you can on the other browsers.
 - Spaces organize your tabs/windows better than different accounts on other browsers. 
 ## Cons
