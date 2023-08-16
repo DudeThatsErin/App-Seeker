@@ -18,4 +18,4 @@
 
 or [[Tools/Home\|go back home]]?
 
-or [[Tools/Password Managers\|compare password managers]]?
+or [[Tools/Password Managers\|compare password managers]]? 
