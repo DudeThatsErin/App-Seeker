@@ -5,7 +5,7 @@
 # Pros & Cons
 ## Pros
 - Built into your Windows PC so you don't have to go searching and downloading any other browsers when you buy a new PC.
-- Easy to set up and sync to new PCs. Just sign into your Microsoft Account on your PC and it automatically syncs bookmarks, extensions, and everything else in your browser.
+- Easy to set up and sync to new PCs. Just sign into your Microsoft Account on your PC and it automatically syncs bookmarks, extensions, and everything else in your browser. 
 - Runs Chromium so you are able to install Edge Extensions AND Chrome Extensions. This also means you don't run into any compatibility issues with websites not made for the browser.
 - Uses less memory (RAM) than [[Tools/Browsers/FireFox\|Firefox]] & [[Tools/Browsers/Google Chrome\|Google Chrome]] comparatively. Even when multi-tasking with 20+ tabs open.
 - Privacy features are more robust than [[Tools/Browsers/FireFox\|Firefox]] or [[Tools/Browsers/Google Chrome\|Google Chrome]] and offer features like blocking trackers.
