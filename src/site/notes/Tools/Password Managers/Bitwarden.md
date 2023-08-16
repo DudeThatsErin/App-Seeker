@@ -8,7 +8,7 @@
 - Open Source. This means that anyone can see how the source code
 - Public Roadmap. This allows you to view upcoming features and changes and when they expect they could happen. This is a double-edged sword though because they don't always make the deadlines they promise.
 - Offers a free tier which is the best option for individuals who don't store 2FA codes with their passwords. Paid plan is also inexpensive at $10/year.
-- Most things can be done via the apps and there is no need for logging into the web vault. Only things that you need the web vault for is to check to see if your information has been leaked and other reports like those.
+- Most things can be done via the apps and there is no need for logging into the web vault. Only things that you need the web vault for is to check to see if your information has been leaked and other reports like those. 
 ## Cons
 - Clunky password capture. Sometimes it doesn't even capture passwords unless you do it manually.
 - Send feature allows insecure password sharing. Which means that anyone can view the password and not just the person you share the password with.
