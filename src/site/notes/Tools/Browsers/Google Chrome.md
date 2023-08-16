@@ -6,7 +6,7 @@
 ## Pros
 - More Extensions/Plugins than any other browser.
 - Everything follows its path with security standards and support.
-- Syncs bookmarks and settings across computers and devices via your existing Google account.
+- Syncs bookmarks and settings across computers and devices via your existing Google account. 
 - Can have different workspaces for separate accounts. For example, work workspace and bookmarks and settings for your work Gmail and personal workspace and bookmarks and settings for your personal Gmail.
 ## Cons
 - Eats up RAM which causes lagging and performance issues on even the most powerful of PCs.
