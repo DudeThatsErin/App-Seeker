@@ -1,12 +1,12 @@
 ---
-{"title":"Opera & Opera GX","dg-publish":true,"dg-updated":"2023-08-12T18:00","dg-created":"2023-08-12T14:00","dg-path":"Browsers/Opera.md","dg-permalink":"browsers/opera","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","URL":"https://www.opera.com/","aliases":[],"tags":[],"apps":["Chromebook","iOS","Android","Windows","Linux","macOS"],"openSource":false,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/opera/","dgPassFrontmatter":true,"created":"2023-08-12T14:00","updated":"2023-08-12T18:00"}
+{"title":"Opera & Opera GX","dg-publish":true,"dg-updated":"2023-08-12T18:00","dg-created":"2023-08-12T14:00","dg-path":"Browsers/Opera.md","dg-permalink":"browsers/opera","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","URL":"https://www.opera.com/","aliases":[],"tags":[],"apps":["Chromebook","iOS","Windows","Linux","macOS","android"],"openSource":false,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/opera/","dgPassFrontmatter":true,"created":"2023-08-12T14:00","updated":"2023-08-12T18:00"}
 ---
 
 # Pros & Cons
 ## Pros
 - All-in-one browser that allows you to manage your emails, calendar, bookmarks, and more in this browser. You don't need to use any other apps.
 - Opera GX includes RAM management utilities to make sure the browser is nto using too much ofyour computer's resources
-- Customization is limitless. You can have a VPN and all of the apps or you can disable them all. You can get a unique experience tailored to you.
+- Customization is limitless. You can have a VPN and all of the apps or you can disable them all. You can get a unique experience tailored to you. 
 ## Cons
 - RAM Management with Opera Mini (mobile browsers) is not very good and pages tend to reload when you try to switch from one app and back to the browser.
 - Can use more RAM than Chrome.
