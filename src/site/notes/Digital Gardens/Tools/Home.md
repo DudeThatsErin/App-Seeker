@@ -8,7 +8,7 @@ This is where I have everything stored for comparing all of my productivity tool
 ---
 You can view all of the pages in the left sidebar by clicking the 3 lines next to "App Seeker".
 
-[[Digital Gardens/Tools/Password Managers\|Password Managers]] - View a comparison of all of the password managers we have reviewed.
+[[Digital Gardens/Tools/Password Managers\|Password Managers]] - View a comparison of all of the password managers we have reviewed. 
 
 [[Task Managers\|Task Managers]] - View a comparison of all of the task managers we have reviewed.
 
@@ -29,9 +29,9 @@ Alternatively, visit our [GitHub Repository](https://github.com/DudeThatsErin/Ap
 Thanks for your help!
 ## Where are the files located?
 When you view the [GitHub Repository](https://github.com/DudeThatsErin/App-Seeker) you will see the following folders:
-![github_repo.png](/img/user/Digital%20Gardens/Tools/images/github_repo.png)
+![github_repo.png|500](/img/user/Digital%20Gardens/Tools/images/github_repo.png)
 The files are located in the `src` directory. As of writing this there aren't many notes there *but* they are specifically located in `src/site/notes/Tools`
-![github_repo_notes.png](/img/user/Digital%20Gardens/Tools/images/github_repo_notes.png)
+![github_repo_notes.png|500](/img/user/Digital%20Gardens/Tools/images/github_repo_notes.png)
 If you are looking to contribute or you want to clone this repo so you can access this information in your own Obsidian vault (or just to keep for yourself) that's where you would go to look at the notes.
 
 Please make sure to add your information in the `Editor` and `EditorURL` fields in the YAML before pushing your fork. This automatically provides credit on the site to you for having updated any pages.
