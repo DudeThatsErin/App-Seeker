@@ -1,5 +1,5 @@
 ---
-{"title":"Bitwarden","dg-publish":true,"dg-updated":"2023-08-08T08:49","dg-created":"2023-08-04T09:28","dg-path":"Password Managers/Bitwarden.md","dg-permalink":"pw-managers/bitwarden","URL":"https://bitwarden.com","aliases":["bw","open source pw manager"],"tags":["bw","open","source"],"apps":["android","command line","iOS","linux","macOS","web","windows"],"openSource":true,"worksOffline":true,"multiDeviceSync":true,"storageAmount":1,"addlStorage":true,"totpStorage":true,"pwSharing":true,"2FAoptions":true,"noFamily":6,"addFamily":true,"noBusiness":6,"addBusiness":true,"hq":"Santa Barbara, CA","serverLocation":null,"priceURL":"https://bitwarden.com/pricing/business/","monthPrice":null,"yearPrice":10,"freeOption":true,"otpOption":false,"otpPrice":null,"anyDiscounts":false,"discountDescription":null,"discountURL":[],"permalink":"/pw-managers/bitwarden/","dgPassFrontmatter":true,"created":"2023-08-04T09:28","updated":"2023-08-08T08:49"}
+{"title":"Bitwarden","dg-publish":true,"dg-updated":"2023-08-08T08:49","dg-created":"2023-08-04T09:28","dg-path":"Password Managers/Bitwarden.md","dg-permalink":"pw-managers/bitwarden","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://bitwarden.com","aliases":["bw","open source pw manager"],"tags":["bw","open","source"],"apps":["android","command line","iOS","linux","macOS","web","windows"],"openSource":true,"worksOffline":true,"multiDeviceSync":true,"storageAmount":1,"addlStorage":true,"totpStorage":true,"pwSharing":true,"2FAoptions":true,"noFamily":6,"addFamily":true,"noBusiness":6,"addBusiness":true,"hq":"Santa Barbara, CA","serverLocation":null,"priceURL":"https://bitwarden.com/pricing/business/","monthPrice":null,"yearPrice":10,"freeOption":true,"otpOption":false,"otpPrice":null,"anyDiscounts":false,"discountDescription":null,"discountURL":[],"permalink":"/pw-managers/bitwarden/","dgPassFrontmatter":true,"created":"2023-08-04T09:28","updated":"2023-08-08T08:49"}
 ---
 
 
@@ -8,7 +8,7 @@
 - Open Source. This means that anyone can see how the source code
 - Public Roadmap. This allows you to view upcoming features and changes and when they expect they could happen. This is a double-edged sword though because they don't always make the deadlines they promise.
 - Offers a free tier which is the best option for individuals who don't store 2FA codes with their passwords. Paid plan is also inexpensive at $10/year.
-- Most things can be done via the apps and there is no need for logging into the web vault. Only things that you need the web vault for is to check to see if your information has been leaked and other reports like those.
+- Most things can be done via the apps and there is no need for logging into the web vault. Only things that you need the web vault for is to check to see if your information has been leaked and other reports like those. 
 ## Cons
 - Clunky password capture. Sometimes it doesn't even capture passwords unless you do it manually.
 - Send feature allows insecure password sharing. Which means that anyone can view the password and not just the person you share the password with.
