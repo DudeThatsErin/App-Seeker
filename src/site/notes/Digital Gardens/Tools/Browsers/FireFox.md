@@ -4,7 +4,7 @@
 
 # Pros & Cons
 ## Pros
-- Advertising and Privacy Blocking is built into the browser. Mozilla doesn't collect as much data on its users as Google and dissociates activity from user identities. Basically this means that your browsing activity is more private on Firefox than on Google.
+- Advertising and Privacy Blocking is built into the browser. Mozilla doesn't collect as much data on its users as Google and dissociates activity from user identities. Basically this means that your browsing activity is more private on Firefox than on Google. 
 - Easy to use and set up and does not require much storage space on your computer so you don't have to think twice about installing it.
 - Ad-free reading mode included in the browser.
 ## Cons
