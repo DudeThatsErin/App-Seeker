@@ -30,7 +30,7 @@ Thanks for your help!
 ## Where are the files located?
 When you view the [GitHub Repository](https://github.com/DudeThatsErin/App-Seeker) you will see the following folders:
 ![github_repo.png|500](/img/user/Digital%20Gardens/Tools/images/github_repo.png)
-The files are located in the `src` directory. As of writing this there aren't many notes there *but* they are specifically located in `src/site/notes/Tools`
+The files are located in the `src` directory. As of writing this there aren't many notes there *but* they are specifically located in `src/site/notes/Tools`:
 ![github_repo_notes.png|500](/img/user/Digital%20Gardens/Tools/images/github_repo_notes.png)
 If you are looking to contribute or you want to clone this repo so you can access this information in your own Obsidian vault (or just to keep for yourself) that's where you would go to look at the notes.
 
