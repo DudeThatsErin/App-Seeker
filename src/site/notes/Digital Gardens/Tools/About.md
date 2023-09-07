@@ -20,7 +20,7 @@ There is little, to no, focus on teams or business apps, software or services at
 
 While I work for a team/business, I do not have any experience managing and using software for a team so I do not feel my expertise would be best placed in this environment.
 
-*Note:* If anyone would like to fork this repo on GitHub (listed on [[Digital Gardens/Tools/Home\|Home]] page how) and add their expertise on team/business applications that is welcome and appreciated!
+*Note:* If anyone would like to fork this repo on GitHub (listed on [[Digital Gardens/Tools/Home\|Digital Gardens/Tools/Home]] page how) and add their expertise on team/business applications that is welcome and appreciated!
 
 # Credits
 - [Obsidian](https://obsidian.md) - Software I use to write and publish everything.
