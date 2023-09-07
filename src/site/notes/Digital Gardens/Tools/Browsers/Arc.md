@@ -4,15 +4,15 @@
 
 # Pros & Cons
 ## Pros
-- New look to the browser experience means that your web browsing experience can be more aesthetically pleasing.
+- New look to the browser experience means that your web browsing experience can be more aesthetically pleasing. 
 - More keyboard shortcuts means you can do a lot more browsing with your keyboard than you can on the other browsers.
 - Spaces organize your tabs/windows better than different accounts on other browsers. 
 ## Cons
-- Bookmarks are not available. You can Pin tabs to keep them accross sessions and they act as bookmarks but bookmarks themselves are unavailable.
+- Bookmarks are not available. You can Pin tabs to keep them across sessions and they act as bookmarks but bookmarks themselves are unavailable.
 - Only available on iPhone and MacOS currently. No mentions of it coming to iPad anytime in the near future. Windows is coming December 2023 or Q1 2024. Haven't heard anything about Android, Linux, or Android Tablet support.
 - No account to sign into to sync bookmarks, extension, or any other data to a new device if you get a new device while using this browser. You would have to set it up from scratch.
 # Our Review
-Since we can't use the app as it is only available on MacOS and iPhone we will not be reviewing it until it comes out on Windows. Our Pros/Cons above are mearly observations from reviews, articles, and posts on their subreddit and discord server.
+Since we can't use the app as it is only available on MacOS and iPhone we will not be reviewing it until it comes out on Windows. Our Pros/Cons above are merely observations from reviews, articles, and posts on their subreddit and discord server.
 
 For now, enjoy a screenshot of how the app looks on MacOS. It is reportedly going to look very similar on Windows. We will also post links to articles and YouTube videos below for you to look at.
 ![ArcBrowser.png](/img/user/Digital%20Gardens/Tools/images/ArcBrowser.png)
