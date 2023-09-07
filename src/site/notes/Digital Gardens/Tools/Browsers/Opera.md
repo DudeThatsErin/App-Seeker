@@ -12,7 +12,7 @@
 - Can use more RAM than Chrome.
 - The different options for web browsers can be overwhelming to the average users.
 # Our Review
-We are still testing this browser and our full review will be coming soon. In the meantime you can check out the articles and youtube videos below.
+We are still testing this browser and our full review will be coming soon. In the meantime you can check out the articles and Youtube videos below.
 # Other Reviews
 ## Articles
 - [Opera Reviews - Software Advice](https://www.softwareadvice.com/browser/opera-profile/reviews/#)
