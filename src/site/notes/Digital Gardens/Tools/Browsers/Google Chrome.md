@@ -28,7 +28,7 @@ They tout that you can generate strong passwords on every site and "Check your s
 Alphabet owns Google. They are an advertising company through and through. This means they want as much of your data as possible to send you targeted ads because that is how they make money. So, you can only be so safe with Google.
 
 ## How does Chrome work day-to-day?
-Overall, it is very smooth. It is very rare that I visit a website that doesn't work in Chrome. Most websites are made for Chrome and then [[Digital Gardens/Tools/Browsers/FireFox\|FireFox]] and [[Digital Gardens/Tools/Browsers/Safari\|Safari]] so while it is unlikely you will see a website not work in [[Digital Gardens/Tools/Browsers/Safari\|Safari]] or Chrome, you are more likely to see one not work in [[Digital Gardens/Tools/Browsers/FireFox\|FireFox]] and I have come across some that do not work in [[Digital Gardens/Tools/Browsers/FireFox\|FireFox]].
+Overall, it is very smooth. It is very rare that I visit a website that doesn't work in Chrome. Most websites are made for Chrome and then [[Digital Gardens/Tools/Browsers/Mozilla Firefox\|Mozilla Firefox]] and [[Digital Gardens/Tools/Browsers/Safari\|Safari]] so while it is unlikely you will see a website not work in [[Digital Gardens/Tools/Browsers/Safari\|Safari]] or Chrome, you are more likely to see one not work in [[Digital Gardens/Tools/Browsers/Mozilla Firefox\|Mozilla Firefox]] and I have come across some that do not work in [[Digital Gardens/Tools/Browsers/Mozilla Firefox\|Mozilla Firefox]].
 
 ## Does Chrome use all of your RAM?
 It does take a lot of it. I have 29 processes running with Chrome (currently) and it is using 877mb of RAM on average. Which doesn't sound like a lot except when you compare it to [[Digital Gardens/Tools/Browsers/Microsoft Edge\|Microsoft Edge]] which currently has 51 processes running and it is using 950mb of RAM on average. So, Chrome uses more RAM on average than other browsers running the same tasks.
@@ -43,6 +43,8 @@ Yes, I switched over to Chrome from [[Digital Gardens/Tools/Browsers/Microsoft E
 - [Google Chrome Review - PC Mag](https://www.pcmag.com/reviews/google-chrome)
 ## YouTube Videos
 These are all embedded, open the callouts to show the videos and you can watch them right here on our site.
+
+Any videos you see that are not playable on our website are merely included so that links to YouTube can be provided. I am keeping them embedded in case the video author's change their mind and allow viewing on other websites.
 
 > [!info-darkrp]- Everyone Uses Chrome. But Why? - Techquickie
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/9NUB6-_mxh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -59,3 +61,5 @@ These are all embedded, open the callouts to show the videos and you can watch t
 > [!info-lightbg]- Chrome & Firefox Security Tips You Need to Know - ThioJoe
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/9SraN9V23WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+> [!info-darkb]- Which Web Browser Should I Use? Top 6 Browsers Compared! - Craylor Made
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/Z29uz49zwG8?si=Tij6qDrE9Vi7owio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
