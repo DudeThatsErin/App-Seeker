@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-created":"2023-08-01T10:25","dg-updated":"2023-08-11T07:43","title":null,"dg-path":"Welcome Home.md","dg-pinned":true,"permalink":"/welcome-home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-08-01T10:25","updated":"2023-08-11T07:43"}
+{"dg-home":true,"dg-publish":true,"dg-created":"2023-09-19T13:27","dg-updated":"2023-08-11T07:43","title":null,"dg-path":"Welcome Home.md","dg-pinned":true,"permalink":"/welcome-home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-09-19T13:27","updated":"2023-08-11T07:43"}
 ---
 
 # Welcome to App Seeker!
@@ -13,6 +13,8 @@ You can view all of the pages in the left sidebar by clicking the 3 lines next t
 [[Digital Gardens/Tools/Task Managers\|Task Managers]] - View a comparison of all of the task managers we have reviewed.
 
 [[Read-it-Later Apps\|Read-it-Later Apps]] - View a comparison of all of the Read-it-Later apps we have reviewed.
+
+[[Digital Gardens/Tools/Password Managers\|Password Managers]]- View a comparesion of all of the Password Management apps we have reviewed.
 
 [[Digital Gardens/Tools/Browsers\|Browsers]] - View a comparison of all of the Browsers we have reviewed.
 
