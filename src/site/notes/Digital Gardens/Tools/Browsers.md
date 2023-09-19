@@ -7,12 +7,12 @@
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------- | ----------------- |
 | [[Digital Gardens/Tools/Browsers/Microsoft Edge\|Microsoft Edge]]   | <ul><li>android</li><li>iOS</li><li>macOS</li><li>windows</li><li>linux</li></ul>                    | ✅                 | ✅                 |
 | [[Digital Gardens/Tools/Browsers/Vivaldi\|Vivaldi]]                 | <ul><li>Windows</li><li>macOS</li><li>Linux</li><li>Automotive OS</li><li>android</li></ul>          | ✅                 | ✅                 |
+| [[Digital Gardens/Tools/Browsers/Mozilla Firefox\|Mozilla Firefox]] | <ul><li>android</li><li>iOS</li><li>linux</li><li>macOS</li><li>windows</li></ul>                    | ✅                 | ✅                 |
 | [[Digital Gardens/Tools/Browsers/Google Chrome\|Google Chrome]]     | <ul><li>android</li><li>iOS</li><li>linux</li><li>macOS</li><li>windows</li></ul>                    | ✅                 | ✅                 |
 | [[Digital Gardens/Tools/Browsers/Arc\|Arc]]                         | <ul><li>iPhone</li><li>macOS</li></ul>                                                               | ❌                 | ✅                 |
 | [[Digital Gardens/Tools/Browsers/Safari\|Safari]]                   | <ul><li>iOS</li><li>macOS</li></ul>                                                                  | ✅                 | ✅                 |
 | [[Digital Gardens/Tools/Browsers/Opera\|Opera]]                     | <ul><li>Chromebook</li><li>iOS</li><li>Windows</li><li>Linux</li><li>macOS</li><li>android</li></ul> | ✅                 | ✅                 |
 | [[Digital Gardens/Tools/Browsers/Brave\|Brave]]                     | <ul><li>android</li><li>iOS</li><li>Linux</li><li>Windows</li><li>macOS</li></ul>                    | ✅                 | ✅                 |
-| [[Digital Gardens/Tools/Browsers/Mozilla Firefox\|Mozilla Firefox]] | <ul><li>android</li><li>iOS</li><li>linux</li><li>macOS</li><li>windows</li></ul>                    | ✅                 | ✅                 |
 
 { .block-language-dataview}
 
