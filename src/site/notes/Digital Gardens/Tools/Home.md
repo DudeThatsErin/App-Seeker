@@ -14,8 +14,6 @@ You can view all of the pages in the left sidebar by clicking the 3 lines next t
 
 [[Read-it-Later Apps\|Read-it-Later Apps]] - View a comparison of all of the Read-it-Later apps we have reviewed.
 
-[[Digital Gardens/Tools/Password Managers\|Password Managers]]- View a comparesion of all of the Password Management apps we have reviewed.
-
 [[Digital Gardens/Tools/Browsers\|Browsers]] - View a comparison of all of the Browsers we have reviewed.
 
 [[VPNs\|VPNs]] - View a comparison of all of the VPNs we have reviewed.
