@@ -7,8 +7,8 @@
 - Built into your Windows PC so you don't have to go searching and downloading any other browsers when you buy a new PC.
 - Easy to set up and sync to new PCs. Just sign into your Microsoft Account on your PC and it automatically syncs bookmarks, extensions, and everything else in your browser. 
 - Runs Chromium so you are able to install Edge Extensions AND Chrome Extensions. This also means you don't run into any compatibility issues with websites not made for the browser.
-- Uses less memory (RAM) than [[Digital Gardens/Tools/Browsers/FireFox\|FireFox]] & [[Digital Gardens/Tools/Browsers/Google Chrome\|Google Chrome]] comparatively. Even when multi-tasking with 20+ tabs open.
-- Privacy features are more robust than [[Digital Gardens/Tools/Browsers/FireFox\|FireFox]] or [[Digital Gardens/Tools/Browsers/Google Chrome\|Google Chrome]] and offer features like blocking trackers.
+- Uses less memory (RAM) than [[Digital Gardens/Tools/Browsers/Mozilla Firefox\|Mozilla Firefox]] & [[Digital Gardens/Tools/Browsers/Google Chrome\|Google Chrome]] comparatively. Even when multi-tasking with 20+ tabs open.
+- Privacy features are more robust than [[Digital Gardens/Tools/Browsers/Mozilla Firefox\|Mozilla Firefox]] or [[Digital Gardens/Tools/Browsers/Google Chrome\|Google Chrome]] and offer features like blocking trackers.
 - You can do split screen right inside your tab/window without having to open two separate tabs (shown below).
 ## Cons
 - Microsoft wants all of your data for advertising so while they have some privacy features they also track you EVERYWHERE while using the browser. Though it hard to find a browser that doesn't these days.
@@ -46,6 +46,8 @@ Yes and Yes. I love Edge. After having used all of these browsers it is the one 
 ## YouTube Videos
 These are all embedded, open the callouts to show the videos and you can watch them right here on our site.
 
+Any videos you see that are not playable on our website are merely included so that links to YouTube can be provided. I am keeping them embedded in case the video author's change their mind and allow viewing on other websites.
+
 >[!info-lightr]- Microsoft Edge Review: Microsoft Edge is better than Chrome, yup I said it! - Software Advice
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/oRsMPeGjPxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -64,3 +66,5 @@ These are all embedded, open the callouts to show the videos and you can watch t
 >[!info]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/j5r6jFE8gic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+> [!info-darkb]- Which Web Browser Should I Use? Top 6 Browsers Compared! - Craylor Made
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/Z29uz49zwG8?si=Tij6qDrE9Vi7owio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
