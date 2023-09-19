@@ -10,7 +10,7 @@ You can view all of the pages in the left sidebar by clicking the 3 lines next t
 
 [[Digital Gardens/Tools/Password Managers\|Password Managers]] - View a comparison of all of the password managers we have reviewed. 
 
-[[Task Managers\|Task Managers]] - View a comparison of all of the task managers we have reviewed.
+[[Digital Gardens/Tools/Task Managers\|Task Managers]] - View a comparison of all of the task managers we have reviewed.
 
 [[Read-it-Later Apps\|Read-it-Later Apps]] - View a comparison of all of the Read-it-Later apps we have reviewed.
 
