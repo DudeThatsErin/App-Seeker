@@ -1,7 +1,27 @@
 ---
-{"title":"Brave","dg-publish":true,"dg-updated":"2023-08-12T17:00","dg-created":"2023-08-12T16:00","dg-path":"Browsers/Brave.md","dg-permalink":"browsers/brave","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://brave.com/","aliases":[],"tags":[],"apps":["android","iOS","Linux","Windows","macOS"],"openSource":false,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/brave/","dgPassFrontmatter":true,"created":"2023-08-12T16:00","updated":"2023-08-12T17:00"}
+title: Brave
+dg-publish: true
+dg-updated: 2023-08-12T17:00
+dg-created: 2023-08-12T16:00
+dg-path: Browsers/Brave.md
+dg-permalink: browsers/brave
+author: Erin Skidds
+authorURL: https://github.com/DudeThatsErin
+editor: 
+editorURL: 
+URL: https://brave.com/
+aliases: []
+tags: []
+apps:
+  - android
+  - iOS
+  - Linux
+  - Windows
+  - macOS
+openSource: false
+multiDeviceSync: true
+extSupport: true
 ---
-
 # Pros & Cons
 ## Pros
 - Ad-blocker, TOR Browser, and VPN built directly into the app.
