@@ -1,24 +1,7 @@
 ---
-title: Safari
-dg-publish: true
-dg-updated: 2023-09-19T07:30
-dg-created: 2023-08-14T15:30
-dg-path: Browsers/Safari.md
-dg-permalink: browsers/safari
-author: Erin Skidds
-authorURL: https://github.com/DudeThatsErin
-editor: 
-editorURL: 
-URL: https://support.apple.com/downloads/safari
-aliases: 
-tags: 
-apps:
-  - iOS
-  - macOS
-openSource: false
-multiDeviceSync: true
-extSupport: true
+{"title":"Safari","dg-publish":true,"dg-updated":"2023-09-19T07:30","dg-created":"2023-08-14T15:30","dg-path":"Browsers/Safari.md","dg-permalink":"browsers/safari","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://support.apple.com/downloads/safari","aliases":null,"tags":null,"apps":["iOS","macOS"],"openSource":false,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/safari/","dgPassFrontmatter":true,"created":"2023-08-14T15:30","updated":"2023-09-19T07:30"}
 ---
+
 # Pros & Cons
 ## Pros
 - You don't have to worry about updating more than once a year when the new operating systems get released.
