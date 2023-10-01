@@ -1,12 +1,7 @@
 ---
-dg-home: true
-dg-publish: true
-dg-created: 2023-09-19T13:27
-dg-updated: 2023-08-11T07:43
-title: 
-dg-path: Welcome Home.md
-dg-pinned: true
+{"dg-home":true,"dg-publish":true,"dg-created":"2023-09-19T13:27","dg-updated":"2023-08-11T07:43","title":null,"dg-path":"Welcome Home.md","dg-pinned":true,"permalink":"/welcome-home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-09-19T13:27","updated":"2023-08-11T07:43"}
 ---
+
 # Welcome to App Seeker!
 This is where I have everything stored for comparing all of my productivity tools.
 
