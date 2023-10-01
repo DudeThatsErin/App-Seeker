@@ -4,7 +4,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{% if title %}{{ title }} - AppSeeker{% else %}{{ page.fileSlug }} - App Seeker{% endif %}</title>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
@@ -50,9 +50,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
             {%- endif -%}
             {%- if meta.timestampSettings.showUpdated and updated -%}
             <div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
-            {%- endif -%}
-            {%- if meta.author -%}
-            <div><i icon-name="user-circle-2"></i> <span class="author" data="{{author}}"></span></div>
             {%- endif -%}
           </div>
           {%- endif -%}
