@@ -1,7 +1,56 @@
 ---
-{"title":"1Password","dg-publish":true,"dg-updated":"2023-08-10T09:25","dg-created":"2023-08-04T09:00","dg-path":"Password Managers/1Password.md","dg-permalink":"pw-managers/1password","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://1password.com","aliases":["one password","pw","1pw"],"tags":["passwords","management"],"apps":["android","iOS","linux","macOS","web","windows","command line"],"openSource":null,"worksOffline":true,"multiDeviceSync":true,"storageAmount":1,"addlStorage":null,"totpStorage":true,"pwSharing":true,"2FAoptions":true,"noFamily":5,"addFamily":true,"noBusiness":10,"addBusiness":true,"hq":"Toronto,CA","serverLocation":"","priceURL":"https://1password.com/business-pricing","monthPrice":null,"yearPrice":35.88,"freeOption":false,"otpOption":false,"otpPrice":null,"anyDiscounts":true,"discountDescription":"40% off Individual Accounts & 50% off Families Account with CyberNews Coupons","discountURL":["https://start.1password.com/sign-up/individual?c=CYBER40&cjevent=e56cd90716cb11ee80ba005d0a82b824&utm_medium=affiliate&utm_source=Adtech+lt%2C+UAB&utm_campaign=5596782&utm_content=100242223&utm_term=Cyber+News%3A+Enjoy+40%25+Off+Individuals+at+1Password%21+New+Customers+Only%21&cjdata=MXxOfDB8WXww","https://start.1password.com/sign-up/?l=en&c=CYBER23&cjevent=19da89c616cc11ee812cef7b0a82b82d&utm_medium=affiliate&utm_source=Adtech+lt%2C+UAB&utm_campaign=5596782&utm_content=100242223&utm_term=Cyber+News%3A+Enjoy+50%25+Off+Families+at+1Password%21+New+Customers+Only%21&cjdata=MXxOfDB8WXww"],"permalink":"/pw-managers/1password/","dgPassFrontmatter":true,"created":"2023-08-04T09:00","updated":"2023-08-10T09:25"}
+title: 1Password
+dg-publish: true
+dg-updated: 2023-08-10T09:25
+dg-created: 2023-08-04T09:00
+dg-path: Password Managers/1Password.md
+dg-permalink: pw-managers/1password
+author: Erin Skidds
+authorURL: https://github.com/DudeThatsErin
+editor: 
+editorURL: 
+URL: https://1password.com
+aliases:
+  - one password
+  - pw
+  - 1pw
+tags:
+  - passwords
+  - management
+apps:
+  - android
+  - iOS
+  - linux
+  - macOS
+  - web
+  - windows
+  - command line
+openSource: false
+multiDeviceSync: true
+addlStorage: false
+storageAmount: 1
+totpStorage: true
+pwSharing: true
+2FAoptions: true
+noFamily: 5
+addFamily: true
+noBusiness: 10
+addBusiness: true
+hq: Toronto,CA
+serverLocation: ""
+priceURL: https://1password.com/business-pricing
+monthPrice: 
+yearPrice: 35.88
+freeOption: false
+otpOption: false
+otpPrice: 
+anyDiscounts: true
+discountDescription:
+  - 40% off Individual Accounts & 50% off Families Account with CyberNews Coupons
+discountURL:
+  - https://start.1password.com/sign-up/individual?c=CYBER40&cjevent=e56cd90716cb11ee80ba005d0a82b824&utm_medium=affiliate&utm_source=Adtech+lt%2C+UAB&utm_campaign=5596782&utm_content=100242223&utm_term=Cyber+News%3A+Enjoy+40%25+Off+Individuals+at+1Password%21+New+Customers+Only%21&cjdata=MXxOfDB8WXww
+  - https://start.1password.com/sign-up/?l=en&c=CYBER23&cjevent=19da89c616cc11ee812cef7b0a82b82d&utm_medium=affiliate&utm_source=Adtech+lt%2C+UAB&utm_campaign=5596782&utm_content=100242223&utm_term=Cyber+News%3A+Enjoy+50%25+Off+Families+at+1Password%21+New+Customers+Only%21&cjdata=MXxOfDB8WXww
 ---
-
 # Pros & Cons
 ## Pros
 - Modern Interface with drag & drop capabilities.
