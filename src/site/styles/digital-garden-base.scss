@@ -540,44 +540,44 @@ ul.task-list {
     }
 }
 
-.callout-title-inner,
-.callout-title-inner p,
-.callout-icon,
-.callout-fold,
-.callout-content {
-    margin: 0;
-    padding: 0;
-}
+// .callout-title-inner,
+// .callout-title-inner p,
+// .callout-icon,
+// .callout-fold,
+// .callout-content {
+//     margin: 0;
+//     padding: 0;
+// }
 
-.callout-fold {
-    cursor: pointer;
-}
+// .callout-fold {
+//     cursor: pointer;
+// }
 
-.callout-title {
-    margin-top: 0;
-    align-items: center;
-}
+// .callout-title {
+//     margin-top: 0;
+//     align-items: center;
+// }
 
-.callout {
-    font-family: var(--font-default);
-    word-wrap: break-word;
-    display: block;
-    font-size: 1rem;
-}
+// .callout {
+//     font-family: var(--font-default);
+//     word-wrap: break-word;
+//     display: block;
+//     font-size: 1rem;
+// }
 
-.callout.is-collapsed {
-    .callout-content {
-        display: none;
-    }
+// .callout.is-collapsed {
+//     .callout-content {
+//         display: none;
+//     }
 
-    .callout-fold .lucide {
-        transform: rotate(-90deg);
-    }
-}
+//     .callout-fold .lucide {
+//         transform: rotate(-90deg);
+//     }
+// }
 
-.callout-fold .lucide {
-    transition: transform 100ms ease-in-out;
-}
+// .callout-fold .lucide {
+//     transition: transform 100ms ease-in-out;
+// }
 
 .referred {
     border: 1px dashed;
