@@ -48,23 +48,23 @@ These are all embedded, open the callouts to show the videos and you can watch t
 
 Any videos you see that are not playable on our website are merely included so that links to YouTube can be provided. I am keeping them embedded in case the video author's change their mind and allow viewing on other websites.
 
->[!info-lightr]- Microsoft Edge Review: Microsoft Edge is better than Chrome, yup I said it! - Software Advice
+>[!film-lightr]- Microsoft Edge Review: Microsoft Edge is better than Chrome, yup I said it! - Software Advice
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/oRsMPeGjPxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
->[!info-lightpp]- Why I Prefer Edge to Chrome (and YOU WILL TOO!) - Leila Gharani
+>[!film-lightpp]- Why I Prefer Edge to Chrome (and YOU WILL TOO!) - Leila Gharani
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/v73TaVDWh4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightg]- Microsoft Ege just ENDED Chrome - Austin Evans
+> [!film-lightg]- Microsoft Ege just ENDED Chrome - Austin Evans
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/14OjfjPxCHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lighty]- Is NOW the Time to Switch to Microsoft Edge? - Keven Stratvert
+> [!film-gteal]- Is NOW the Time to Switch to Microsoft Edge? - Keven Stratvert
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/fnkCukHRBVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightb]- Microsoft Edge Is Objectively Better. But No One Wants It. - Logically Answered
+> [!film-lightb]- Microsoft Edge Is Objectively Better. But No One Wants It. - Logically Answered
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/937f7m3nzqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
->[!info]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
+>[!film-teal]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/j5r6jFE8gic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-darkb]- Which Web Browser Should I Use? Top 6 Browsers Compared! - Craylor Made
+> [!film-darkb]- Which Web Browser Should I Use? Top 6 Browsers Compared! - Craylor Made
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/Z29uz49zwG8?si=Tij6qDrE9Vi7owio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
