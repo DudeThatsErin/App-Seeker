@@ -46,20 +46,20 @@ These are all embedded, open the callouts to show the videos and you can watch t
 
 Any videos you see that are not playable on our website are merely included so that links to YouTube can be provided. I am keeping them embedded in case the video author's change their mind and allow viewing on other websites.
 
-> [!info-darkrp]- Everyone Uses Chrome. But Why? - Techquickie
+> [!film-lightrp]- Everyone Uses Chrome. But Why? - Techquickie
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/9NUB6-_mxh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightpp]- 5 Reasons Edge Beats Chrome - Keven Stratvert
+> [!film-lightpp]- 5 Reasons Edge Beats Chrome - Keven Stratvert
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/ACA6_3qch4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info]- The ULTIMATE Browser Tier List - Eric Murphy
+> [!film]- The ULTIMATE Browser Tier List - Eric Murphy
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/j5r6jFE8gic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
->[!info-lightr]- Best Mobile Browser (2023) | Top Picks Reviewed - The Cyber Lab
+>[!film-red]- Best Mobile Browser (2023) | Top Picks Reviewed - The Cyber Lab
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/xHNEgDdrTI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightbg]- Chrome & Firefox Security Tips You Need to Know - ThioJoe
+> [!film-lightbg]- Chrome & Firefox Security Tips You Need to Know - ThioJoe
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/9SraN9V23WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-darkb]- Which Web Browser Should I Use? Top 6 Browsers Compared! - Craylor Made
+> [!film-darkb]- Which Web Browser Should I Use? Top 6 Browsers Compared! - Craylor Made
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/Z29uz49zwG8?si=Tij6qDrE9Vi7owio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
