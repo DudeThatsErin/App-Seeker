@@ -29,18 +29,18 @@ Our review is coming soon. We are still working on testing the browser. Pros & C
 ## YouTube Videos
 These are all embedded, open the callouts to show the videos and you can watch them right here on our site.
 
->[!info]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
+>[!film-tan]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/j5r6jFE8gic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightr]- Vivaldi Browser Review - Quite Underrated - The Inventar
+> [!film]- Vivaldi Browser Review - Quite Underrated - The Inventar
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/Hgf32SNhAuM?si=qK3xAWZ3DkS7l_jX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-darkb]- I'm Switching Browsers Again - The Linux Cast
+> [!film-darkb]- I'm Switching Browsers Again - The Linux Cast
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/L9tLkdulTY8?si=yUTj89F_vev7Wczo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lighto]- 10 Reasons to QUIT CHROME and USE VIVALDI Instead! - Brett In Tech
+> [!film-lightbg]- 10 Reasons to QUIT CHROME and USE VIVALDI Instead! - Brett In Tech
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/J8zr6DwJcfE?si=HkQWn78CtV0fTKWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lighty]- Opera vs Vivaldi vs Brave | The Web Browser Comparison - Chris Titus Tech
+> [!film-lighty]- Opera vs Vivaldi vs Brave | The Web Browser Comparison - Chris Titus Tech
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/PedU3mNm-3Y?si=iAiLUcJ2b1iHTJEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
