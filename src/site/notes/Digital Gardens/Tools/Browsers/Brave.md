@@ -36,21 +36,21 @@ You will get less advertisement than someone like me who uses [[Digital Gardens/
 ## YouTube Videos
 These are all embedded, open the callouts to show the videos and you can watch them right here on our site.
 
-> [!info-darkr]- Brave Browser Review 2023 - Pros, Cons, and Everything Else - MKs Guide
+> [!film]- Brave Browser Review 2023 - Pros, Cons, and Everything Else - MKs Guide
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/Qm7tt5d-DMg?si=2xXdJCsF3qyxztGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
->[!info]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
+>[!film-lightb]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/j5r6jFE8gic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-darkb]- Brave browser review 2023 | Is Brave browser safe to use? - VPN Pro
+> [!film-darkb]- Brave browser review 2023 | Is Brave browser safe to use? - VPN Pro
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/-W2M9-B4NtM?si=QOax2FlST675thwC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightdb]- Brave Browser Honest Review - Brave vs Other Browsers - The Inventar
+> [!film-lightdb]- Brave Browser Honest Review - Brave vs Other Browsers - The Inventar
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/4-qnzTWA_ys?si=bx-bMEqH5I0kcsLh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lighty]- Opera vs Vivaldi vs Brave | The Web Browser Comparison - Chris Titus Tech
+> [!film-yellow]- Opera vs Vivaldi vs Brave | The Web Browser Comparison - Chris Titus Tech
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/PedU3mNm-3Y?si=iAiLUcJ2b1iHTJEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lighto]- Is BRAVE browser better than Google CHROME? Brave vs Chrome in 2023 - CoolTechZone
+> [!film-lightpp]- Is BRAVE browser better than Google CHROME? Brave vs Chrome in 2023 - CoolTechZone
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/Lz09_HoyWyE?si=N2ImAt3RzfoWc_RE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
