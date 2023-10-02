@@ -34,24 +34,24 @@ These are all embedded, open the callouts to show the videos and you can watch t
 
 Any videos you see that are not playable on our website are merely included so that links to YouTube can be provided. I am keeping them embedded in case the video author's change their mind and allow viewing on other websites.
 
->[!info]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
+>[!film-gteal]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/j5r6jFE8gic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightdb]- Opera One Review: Future of Browsers with AI and Modular Design - Windows Report
+> [!film-lightr1]- Opera One Review: Future of Browsers with AI and Modular Design - Windows Report
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/bmbDX2ZtzxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightpp]- Opera vs. Chrome | I'm DUMPING Google Chrome?
+> [!film-lightpp]- Opera vs. Chrome | I'm DUMPING Google Chrome?
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/BCQLitBIlo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightr]- Opera One Is Here - Opera
+> [!film-lightr]- Opera One Is Here - Opera
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/FxBBuxE6XTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightg]- Opera GX 2023 Review: the Gaming Browser that Evolved - Windows Report
+> [!film-teal]- Opera GX 2023 Review: the Gaming Browser that Evolved - Windows Report
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/mQKnjIKz4qU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-darkb]- Which Web Browser Should I Use? Top 6 Browsers Compared! - Craylor Made
+> [!film-darko]- Which Web Browser Should I Use? Top 6 Browsers Compared! - Craylor Made
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/Z29uz49zwG8?si=Tij6qDrE9Vi7owio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
->[!info-lighty]- Opera vs Vivaldi vs Brave | The Web Browser Comparison - Chris Titus Tech
+>[!film-darkg]- Opera vs Vivaldi vs Brave | The Web Browser Comparison - Chris Titus Tech
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/PedU3mNm-3Y?si=iAiLUcJ2b1iHTJEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
