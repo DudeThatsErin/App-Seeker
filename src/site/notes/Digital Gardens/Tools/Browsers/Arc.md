@@ -25,27 +25,27 @@ For now, enjoy a screenshot of how the app looks on MacOS. It is reportedly goin
 ## YouTube Videos
 These are all embedded, open the callouts to show the videos and you can watch them right here on our site.
 
->[!info]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
+>[!film-yellow]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/j5r6jFE8gic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightr]- Arc Browser Review: 10 Reasons Why YOU Should Switch! - Daniel Langewish
+> [!film-lightrp]- Arc Browser Review: 10 Reasons Why YOU Should Switch! - Daniel Langewish
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/I1MRsFRESbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightb]- Arc Browser Will Change The Way You Use The Internet - Tech Enthusiast
+> [!film-lightb]- Arc Browser Will Change The Way You Use The Internet - Tech Enthusiast
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/xft_MHqh4ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightg]- Arc Browser: Early Access Look | App Review - Keep Productive
+> [!film-lightg]- Arc Browser: Early Access Look | App Review - Keep Productive
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/TH255ssNWkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightpp]- Why I've switched to Arc (goodbye Chrome, Firefox, Safari...)
+> [!film-lightrp]- Why I've switched to Arc (goodbye Chrome, Firefox, Safari...)
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/KIzr2YTY47Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightdb]- ARC Browser Full In-depth guide - Tommyisme
+> [!film-lightdb]- ARC Browser Full In-depth guide - Tommyisme
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/U6FIiz-4FoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info]- How to stay organized & focused with Arc Browser - Brandon Boswell
+> [!film-lightb]- How to stay organized & focused with Arc Browser - Brandon Boswell
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/53aEnT53f3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lighto]- The Arc Browser is GENIUS, Here's Why (Invite no longer needed) - FromSergio
+> [!film-lightpp]- The Arc Browser is GENIUS, Here's Why (Invite no longer needed) - FromSergio
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/fcWuhUQreXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
