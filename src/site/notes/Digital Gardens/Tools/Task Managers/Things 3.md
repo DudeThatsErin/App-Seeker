@@ -101,14 +101,28 @@ The reason why I decided on Todoist is due to a few factors. You can read that r
 # Other Reviews
 ## Articles
 - [Things 3 Review - PC Mag](https://www.pcmag.com/reviews/things-3)
-- 2
-- 3
+- [My Things 3 Review in 2023 - r/thingsapp](https://www.reddit.com/r/thingsapp/comments/11eug0m/my_things_3_review_in_2023/)
+- [Things 3 Review: Is Things 3 Mac, iPhone, & iPad App Good? - CRM](https://crm.org/news/things-3-review)
+- [Things 3 Review: The Best Task Management App for Mac, iPhone, and iPad - The Sweet Setup](https://thesweetsetup.com/apps/best-personal-gtd-app-suite/)
+- [Things 3 - TechRadar](https://www.techradar.com/reviews/things-3)
+- [Is Things 3 worth it on iPhone and iPad - r/thingsapp](https://www.reddit.com/r/thingsapp/comments/bhgekl/is_things_3_worth_it_on_iphone_and_ipad/)
+- [Things 3 for the iPad (2023): complete review](https://beingpaperless.com/things-3-for-the-ipad/)
+- [Things 3: The most beautiful piece of software - Thomas Peham](https://thomas-peham.com/projects/things-3)
 ## YouTube Videos
 These are all embedded, open the callouts to show the videos and you can watch them right here on our site.
 
-> [!film-lightr]+ Things 3 vs. Todoist: Which Is Better? (Review) - Peter Akkies
+> [!film-lightdb]- Things 3 vs. Todoist: Which Is Better? (Review) - Peter Akkies
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/-KLt1LgLBPM?si=P9mRj0QAQZ8Fj0dT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
->[!film-lighto]+ Things 3 App Review - Daniel Langewisch
+>[!film-yellow]- Things 3 App Review - Daniel Langewisch
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/u9hvvdbwvds?si=idjdS0zsPIfRMWLG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!film-lightrp]- 5 Reasons Things 3 is the Best To-Do App - Peter Akkies
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/ynhGKG2vsxU?si=zqomTFdITn59jWy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!film]- My Favourite Mac Apps in 2020 | What's on my MacBook Pro? - Ali Abdaal
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/Kppgzbun71I?si=PCk3OGDWxgm9JWTV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> [!film-gteal]- Things 3 for the iPad (2023) | Everything you need to know - Paperless X
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/8CnfgB-SMXE?si=F-UQpnb1wB9AJG3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
