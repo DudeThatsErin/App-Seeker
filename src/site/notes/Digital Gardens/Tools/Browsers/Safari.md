@@ -28,17 +28,17 @@ These are all embedded, open the callouts to show the videos and you can watch t
 
 Any videos you see that are disabled for viewing on this site are merely included so you can have a link to watch them on YouTube. I am keeping them embedded just in case the author decides to change their mind and allow viewing on other websites.
 
->[!info]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
+>[!film-yellow]- The ULTIMATE Browser Tier List (Based Tier to Spyware Tier) - Eric Murphy
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/j5r6jFE8gic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightr]- Apple browser is horrible until you learn how to use it - Bog
+> [!film-lightr]- Apple browser is horrible until you learn how to use it - Bog
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/NSE-c78I6CA?si=DGqa9xyc-L0x6g5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lighto]- Safari VS Chrome - Which is Better For Mac? - Be Productive
+> [!film-lightr1]- Safari VS Chrome - Which is Better For Mac? - Be Productive
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/ug7yPO3buy4?si=0MwE-g_I2O4_8Kki" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightb]- Safari Vs Google Chrome! Which (Should You Choose?) - Simple Alpaca
+> [!film-tan]- Safari Vs Google Chrome! Which (Should You Choose?) - Simple Alpaca
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/9sJZLDsZdiA?si=HzVFhhnXkoVXrM0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-darkb]- Which Web Browser Should I Use? Top 6 Browsers Compared!
+> [!film-darkb]- Which Web Browser Should I Use? Top 6 Browsers Compared!
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/Z29uz49zwG8?si=Tij6qDrE9Vi7owio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
