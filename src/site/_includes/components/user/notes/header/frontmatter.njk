@@ -11,6 +11,20 @@
 </tr>
 {%- endif -%}
 
+{%- if meta.timestampSettings.showCreated and created -%}
+<tr height=19 style='height:14.5pt'>
+  <td height=19 class=x1512303 width=170 style='height:14.5pt;width:128pt'><i icon-name="calendar-plus"></i> Created On</td>
+  <td class=x16512303 width=134 style='width:101pt'><span class="human-date" data-date="{{created}}"></span></td>
+</tr>
+{%- endif -%}
+
+{%- if meta.timestampSettings.showUpdated and updated -%}
+<tr height=19 style='height:14.5pt'>
+  <td class=x16512303 width=134 style='width:101pt'><i icon-name="calendar-clock"></i> Updated On</td>
+  <td height=19 class=x1512303 width=170 style='height:14.5pt;width:128pt'><span class="human-date" data-date="{{updated}}"></span></td>
+</tr>
+{%- endif -%}
+
 {%- if editor -%}
 <tr height=19 style='height:14.5pt'>
   <td height=19 class=x1512303 width=170 style='height:14.5pt;width:128pt'>🧑‍💻 Updated By</td>
