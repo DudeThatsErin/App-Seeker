@@ -25,7 +25,7 @@
  </tr>
 {%- endif -%}
 
-{%- if tags -%}
+{% if settings.dgShowTags === true and tags %}
  <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl1512303 style='height:14.5pt'>📱 Available Where?</td>
   <td class=xl1512303>{% for tag in tags %} {% if tag != 'gardenEntry' and tag !='note' %}
