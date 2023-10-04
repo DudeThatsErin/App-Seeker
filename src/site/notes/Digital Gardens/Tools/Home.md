@@ -1,7 +1,12 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-created":"2023-09-19T13:27","dg-updated":"2023-08-11T07:43","title":"Home","dg-path":null,"dg-pinned":true,"permalink":"/digital-gardens/tools/home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-09-19T13:27","updated":"2023-08-11T07:43"}
+dg-home: true
+dg-publish: true
+dg-created: 2023-09-19T13:27
+dg-updated: 2023-08-11T07:43
+title: Home
+dg-path: 
+dg-pinned: true
 ---
-
 # Welcome to App Seeker!
 This is where I have everything stored for comparing all of my productivity tools.
 
