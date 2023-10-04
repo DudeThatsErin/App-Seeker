@@ -1,25 +1,7 @@
 ---
-title: Opera & Opera GX
-dg-publish: true
-dg-updated: 2023-09-16T13:00
-dg-created: 2023-08-12T14:00
-dg-path: Browsers/Opera.md
-dg-permalink: browsers/opera
-author: Erin Skidds
-authorURL: https://github.com/DudeThatsErin
-URL: https://www.opera.com/
-aliases: 
-tags:
-  - Chromebook
-  - windows
-  - iOS
-  - MacOS
-  - Linux
-  - Android
-openSource: false
-multiDeviceSync: true
-extSupport: true
+{"title":"Opera & Opera GX","dg-publish":true,"dg-updated":"2023-09-16T13:00","dg-created":"2023-08-12T14:00","dg-path":"Browsers/Opera.md","dg-permalink":"browsers/opera","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","URL":"https://www.opera.com/","aliases":null,"tags":["Chromebook","windows","iOS","MacOS","Linux","Android"],"openSource":false,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/opera/","dgPassFrontmatter":true,"created":"2023-08-12T14:00","updated":"2023-09-16T13:00"}
 ---
+
 # Pros & Cons
 ## Pros
 - All-in-one browser that allows you to manage your emails, calendar, bookmarks, and more in this browser. You don't need to use any other apps.
