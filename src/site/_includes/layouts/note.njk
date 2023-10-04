@@ -32,7 +32,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
         <div class="header-meta">
-<!--          {% if settings.dgShowTags === true and tags %}
+        {% if settings.dgShowTags === true and tags %}
             <div class="header-tags">
               {% for tag in tags %}
                 {% if tag != 'gardenEntry' and tag !='note' %}
@@ -40,7 +40,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
                     #{{tag}}
                   </a>
                 {% endif %}
-              {% endfor %} -->
+              {% endfor %}
             </div>
           {% endif %}
           {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
