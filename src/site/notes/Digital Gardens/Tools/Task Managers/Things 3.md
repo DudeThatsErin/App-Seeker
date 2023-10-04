@@ -25,11 +25,21 @@
 
 [Things 3](https://culturedcode.com/things/) is an award-winning personal task manger that helps you plan your day, manage your projects, and make real progress toward your goals. It is only available on Apple devices. I am going to be going over if it is worth the one-time cost of $80 to get it on your Mac, iPhone & iPad. Let’s get into it!
 
+Things 3 is one of my favorite task management apps for iOS. It works seamlessly on iPad, iPhone and Mac and comes with a lot more features than [[Digital Gardens/Tools/Task Managers/Apple Reminders\|Apple Reminders]]. One of the biggest features that I miss out on (since I'm using [[Digital Gardens/Tools/Task Managers/Todoist\|Todoist]]) are "Deadlines" or "Due" dates. These are the dates that a task **has to** be completed by. You can see how I use those with helping my husband track his school below:
+
 ![Things3 Deadlines.png](/img/user/Digital%20Gardens/Tools/images/Things3%20Deadlines.png)
+As you can see it is super useful cause I can track when assignments are due and when the semester ends and then I can put it a "do" date which is the date I intend to remind him to work on these tasks. Then they stay on Things' "Today" view until you complete it. You can see the Today view below.
+![things_today_task.png|700](/img/user/Digital%20Gardens/Tools/images/things_today_task.png)
+When it shows up on this view, on the far right side of the task you can see the deadline (if there is one) and the Area or Project it is in as well as any notes when you tap on it.
+Unfortunately, this view is extremely limiting because in order to get the notes, see if the task repeats, see labels, or sub-tasks (Things calls those checklists) you have to tap on the task on iPad and iPhone. MacOS has a better view where the labels show at the top of the Today view and you can sort by the labels. I'm not sure why this functionality isn't on iPad with the screen real estate but they chose to do this for some reason.
 
-Y
+In order to enter tasks with do dates, deadlines, or a reminder (cause you only get 1 per task) you have to click/tap on each of the areas or remember the keyboard shortcut. This means you will be doing *a lot* of tapping around the app to get things done.
 
-You can also use Siri to add tasks into Things with its Reminders Inbox.
+You can bring up all of these options with keyboard shortcuts though I don't have the mental capacity to remember keyboard shortcuts and I always forget you can press and hold the command key (on iPad and Mac) to bring up a list of the shortcuts. These shortcuts are also unavailable on iPhone.
+
+## Are there any other Things 3 exclusive features?
+
+You can also use Siri to add tasks into Things with its Reminders Inbox. This is another thing I am missing with using [[Digital Gardens/Tools/Task Managers/Todoist\|Todoist]]. I have to deliberately add tasks to Todoist by creating a custom shortcut (and saying a different command) or try to get Siri to understand I am saying Todoist and not "To Do List" or anything else by enunciating perfectly. 
 
 ![Things3 Reminders Inbox.png|700](/img/user/Digital%20Gardens/Tools/images/Things3%20Reminders%20Inbox.png)
 
