@@ -1,7 +1,41 @@
 ---
-{"title":"Things 3","dg-publish":true,"dg-updated":"2023-09-26T20:35:00","dg-created":"2023-09-14T18:28","dg-path":"Task Managers/Things 3","dg-permalink":"task-managers/things","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://culturecode.com","aliases":null,"tags":["iOS","MacOS"],"openSource":false,"worksOffline":true,"multiDeviceSync":true,"attachmentSupport":false,"collaboration":false,"TOTPoptions":false,"dueDates":true,"doDates":true,"hasAnAPI":false,"pluginSupport":false,"hq":"Stuttgart, Germany","serverLocation":null,"priceURL":"https://culturedcode.com/things/","monthPrice":null,"yearPrice":null,"freeOption":true,"otpOption":true,"otpPrice":80,"anyDiscounts":false,"discountDescription":null,"discountURL":[],"permalink":"/task-managers/things/","dgPassFrontmatter":true,"created":"2023-09-14T18:28","updated":"2023-09-26T20:35:00"}
+title: Things 3
+dg-publish: true
+dg-updated: 2023-09-26T20:35:00
+dg-created: 2023-09-14T18:28
+dg-path: Task Managers/Things 3
+dg-permalink: task-managers/things
+author: Erin Skidds
+authorURL: https://github.com/DudeThatsErin
+editor: 
+editorURL: 
+URL: https://culturecode.com
+aliases: 
+tags:
+  - iOS
+  - MacOS
+openSource: false
+worksOffline: true
+multiDeviceSync: true
+attachmentSupport: false
+collaboration: false
+TOTPoptions: false
+dueDates: true
+doDates: true
+hasAnAPI: false
+pluginSupport: false
+hq: Stuttgart, Germany
+serverLocation: 
+priceURL: https://culturedcode.com/things/
+monthPrice: 
+yearPrice: 
+freeOption: true
+otpOption: true
+otpPrice: 80
+anyDiscounts: false
+discountDescription: 
+discountURL: []
 ---
-
 # Pros & Cons
 ## Pros
 - Works well on Apple devices. Just as well as [[Digital Gardens/Tools/Task Managers/Apple Reminders\|Apple Reminders]].
@@ -16,6 +50,7 @@
 - Things 4 could be coming around the corner at any point. So the up-front cost may not be staying when Things 4 comes out.
 - You can view your calendar events in Things 3 but your tasks are unable to sync to any calendar. It is a 1-way view.
 - It doesn't have durations for tasks.
+- It only has 1 level of subtasks called checklists.
 - No location-based reminders and no "do" times. Meaning you can't schedule a task to do it at 12pm on the 6th. You can only schedule it to be done on the 6th and then set a singular reminder for 12pm.
 - Going off the last one, you can only have one reminder per task. So if you miss that reminder for some reason, you are screwed if you don't open the app consistently throughout the day.
 - Seeing details of any task (besides due date and whether it is prioritized (has a star)) means you have to click on each and every task on iPad and iPhone. You can't quickly filter by tags like you can on MacOS.
