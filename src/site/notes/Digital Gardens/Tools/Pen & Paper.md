@@ -17,7 +17,7 @@
 - No backups unless you rewrite what you wrote over and over again.
 # Our Review
 Pencil & Paper is very easy to use. You just grab what you have laying around your home and start writing. It couldn't be easier.
-![notebook.png](/img/user/Digital%20Gardens/Tools/images/notebook.png)
+![notebook.png|700](/img/user/Digital%20Gardens/Tools/images/notebook.png)
 You can read all of my views in the Pros & Cons section above. I do not have much to say besides that. You can read the articles and reviews below to learn what other people think on this topic. 
 # Other Reviews
 ## Articles
