@@ -1,5 +1,5 @@
 ---
-{"title":"Apple Reminders","dg-publish":true,"dg-updated":null,"dg-created":"2023-10-04T11:56:00","dg-path":"Task Managers/Apple Reminders.md","dg-permalink":"task-managers/apple-reminders","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://icloud.com","aliases":null,"tags":["iOS","MacOS"],"openSource":false,"worksOffline":true,"multiDeviceSync":true,"attachmentSupport":true,"collaboration":null,"TOTPoptions":true,"dueDates":null,"hasAnAPI":null,"pluginSupport":null,"hq":"Silicon Valley, CA","serverLocation":"","priceURL":"","monthPrice":null,"yearPrice":null,"freeOption":true,"otpOption":false,"otpPrice":null,"anyDiscounts":false,"discountDescription":null,"discountURL":[],"permalink":"/task-managers/apple-reminders/","dgPassFrontmatter":true,"created":"2023-10-04T11:56:00"}
+{"title":"Apple Reminders","dg-publish":true,"dg-updated":null,"dg-created":"2023-10-04T11:56:00","dg-path":"Task Managers/Apple Reminders.md","dg-permalink":"task-managers/apple-reminders","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://icloud.com","aliases":null,"tags":["iOS","MacOS"],"openSource":false,"worksOffline":true,"multiDeviceSync":true,"attachmentSupport":true,"collaboration":null,"TOTPoptions":true,"dueDates":null,"hasAnAPI":null,"pluginSupport":null,"hq":"Cupertino, CA","serverLocation":"","priceURL":"","monthPrice":null,"yearPrice":null,"freeOption":true,"otpOption":false,"otpPrice":null,"anyDiscounts":false,"discountDescription":null,"discountURL":[],"permalink":"/task-managers/apple-reminders/","dgPassFrontmatter":true,"created":"2023-10-04T11:56:00"}
 ---
 
 # Pros & Cons
@@ -19,7 +19,30 @@
 [Apple Reminders](https://icloud.com) is a fantastic task management app for people within the Apple ecosystem. It works seamlessly on all of the Apple products.
 
 ## Why is Apple Reminders underrated?
-This is because it has **tons** of features that aren't talked about. People usually recommend [[Digital Gardens/Tools/Task Managers/Todoist\|Todoist]], [[TickTick\|TickTick]], [[Asana\|Asana]], or [[Digital Gardens/Tools/Task Managers/Things 3\|Things 3]] before they recommend Reminders or even [[Microsoft To Do\|Microsoft To Do]]
+This is because it has **tons** of features that aren't talked about. People usually recommend [[Digital Gardens/Tools/Task Managers/Todoist\|Todoist]], [[TickTick\|TickTick]], [[Asana\|Asana]], or [[Digital Gardens/Tools/Task Managers/Things 3\|Things 3]] before they recommend Reminders or even [[Microsoft To Do\|Microsoft To Do]].
+
+With iOS17, you can now view your reminders in a Kanban view. This means you can see your tasks in a new way, as shown below.
+![AppleReminders_Kanban.png|700](/img/user/Digital%20Gardens/Tools/images/AppleReminders_Kanban.png)
+You still have the regular list view that you have always had but now you can see your tasks like this on iPhone and Android.
+
+There is also a new Grocery list that automatically organizes your items by type.
+![AppleReminders_Grocery.png|700](/img/user/Digital%20Gardens/Tools/images/AppleReminders_Grocery.png)
+You can see I have these different sections (they do show up in the regular list view as well) and I can add items to each section individually or there is an "Other" section and it will automatically organize it in to these sections. If something doesn't get organize correctly, you can manually create the section and the AI will learn and make sure to categorize that particular item(s) in that/those section(s).
+
+They have also added what they call "Early Reminders" which will remind you of tasks earlier than their due time/date.
+For example, let's say you have a reminder set for every Tuesday at 2:30 to complete paperwork for your job. You can set an early reminder for 3 hours before at 11:30am to go off and notify you. It isn't a "do" time but it is as close as you can get with the Reminders app.
+## Does Reminders have any other features that other task management apps do not have?
+Yes, location based reminders. [[Digital Gardens/Tools/Task Managers/Things 3\|Things 3]], [[Microsoft To Do\|Microsoft To Do]], [[Google Tasks\|Google Tasks]], among others, do *not* have location based reminders.
+
+It also allows attachments which [[Digital Gardens/Tools/Task Managers/Things 3\|Things 3]] and [[Google Tasks\|Google Tasks]] do not allow.
+
+Natural Language processing isn't as good as [[Digital Gardens/Tools/Task Managers/Todoist\|Todoist]]'s though it is better than [[Microsoft To Do\|Microsoft To Do]]'s and has it which is better than [[Google Tasks\|Google Tasks]].
+
+Lastly, it is **free** which is better than [[Digital Gardens/Tools/Task Managers/Things 3\|Things 3]], [[Digital Gardens/Tools/Task Managers/Todoist\|Todoist]], [[TickTick\|TickTick]], [[Asana\|Asana]], and many others. You can't beat that free price.
+
+## My Conclusion
+Apple Reminders is a fantastic task management app. It is not one, I can personally use because it is difficult to enter tasks and doesn't have as many features that I use from [[Digital Gardens/Tools/Task Managers/Todoist\|Todoist]].
+That doesn't mean it is a *bad* app at all. What it does, it does well. It also only gets updated once a year so you don't have to worry about features changing.
 # Other Reviews
 ## Articles
 - [Apple Reminders Review - Best To-do App for those in the Apple Ecosystem](https://jessicabryson.com/apple-reminders-review-best-to-do-app-for-those-in-the-apple-ecosystem/)
