@@ -1,7 +1,33 @@
 ---
-{"title":"Microsoft Edge","dg-publish":true,"dg-updated":"2023-08-11T08:45","dg-created":"2023-08-10T09:27","dg-path":"Browsers/Microsoft Edge.md","dg-permalink":"browsers/edge","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://www.microsoft.com/en-us/edge/download?form=MA13FJ","aliases":["windows","edge","microsoft"],"tags":["windows","edge","microsoft"],"apps":["android","iOS","macOS","windows","linux"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/edge/","dgPassFrontmatter":true,"created":"2023-08-10T09:27","updated":"2023-08-11T08:45"}
+title: Microsoft Edge
+dg-publish: true
+dg-updated: 2023-08-11T08:45
+dg-created: 2023-08-10T09:27
+dg-path: Browsers/Microsoft Edge.md
+dg-permalink: browsers/edge
+author: Erin Skidds
+authorURL: https://github.com/DudeThatsErin
+editor: 
+editorURL: 
+URL: https://www.microsoft.com/en-us/edge/download?form=MA13FJ
+aliases:
+  - windows
+  - edge
+  - microsoft
+tags:
+  - windows
+  - edge
+  - microsoft
+apps:
+  - android
+  - iOS
+  - macOS
+  - windows
+  - linux
+openSource: 
+multiDeviceSync: true
+extSupport: true
 ---
-
 # Pros & Cons
 ## Pros
 - Built into your Windows PC so you don't have to go searching and downloading any other browsers when you buy a new PC.
