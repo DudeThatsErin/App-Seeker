@@ -1,7 +1,52 @@
 ---
-{"title":"Pen & Paper","dg-publish":true,"dg-created":"2023-07-30T10:54","dg-updated":"2023-08-16T08:45","dg-path":"Pen & Paper.md","dg-permalink":"pen-paper","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"aliases":["basic","pen","paper"],"tags":["basic","notes","non-digital"],"apps":["Offline Only"],"openSource":true,"worksOffline":true,"doDates":null,"dueDates":null,"attachmentSupport":false,"hasAnAPI":null,"reminders":false,"locationBasedReminders":false,"kanbanView":true,"listView":true,"switchBetween":true,"hq":"Your Home","pluginSupport":false,"collaboration":true,"nlp":true,"2FAoptions":null,"serverLocation":"","selfHosting":null,"priceURL":"","monthPrice":null,"yearPrice":null,"freeOption":false,"otpOption":true,"otpPrice":10,"anyDiscounts":false,"discountDescription":null,"discountURL":[],"permalink":"/pen-paper/","dgPassFrontmatter":true,"created":"2023-07-30T10:54","updated":"2023-08-16T08:45"}
+title: Pen & Paper
+dg-publish: true
+dg-created: 2023-07-30T10:54
+dg-updated: 2023-08-16T08:45
+dg-path: Pen & Paper.md
+dg-permalink: pen-paper
+author: Erin Skidds
+authorURL: https://github.com/DudeThatsErin
+editor: 
+editorURL: 
+aliases:
+  - basic
+  - pen
+  - paper
+tags:
+  - basic
+  - notes
+  - non-digital
+apps:
+  - Offline Only
+openSource: true
+worksOffline: true
+doDates: 
+dueDates: 
+attachmentSupport: false
+hasAnAPI: 
+reminders: false
+locationBasedReminders: false
+kanbanView: true
+listView: true
+switchBetween: true
+hq: Your Home
+pluginSupport: false
+collaboration: true
+nlp: true
+2FAoptions: 
+serverLocation: ""
+selfHosting: 
+priceURL: ""
+monthPrice: 
+yearPrice: 
+freeOption: false
+otpOption: true
+otpPrice: 10
+anyDiscounts: false
+discountDescription: 
+discountURL: []
 ---
-
 # Pros & Cons
 ## Pros
 - You can carry it with you everywhere.
