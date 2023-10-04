@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"dg-updated":"2023-08-11T07:48","dg-created":"2023-08-04T10:24","dg-path":"About.md","title":"About","dg-permalink":"about","dg-pinned":false,"permalink":"/about/","dgPassFrontmatter":true,"created":"2023-08-04T10:24","updated":"2023-08-11T07:48"}
+dg-publish: true
+dg-updated: 2023-08-11T07:48
+dg-created: 2023-08-04T10:24
+dg-path: About.md
+title: About
+dg-permalink: about
+dg-pinned: false
 ---
-
 # Who am I?
 Hello 👋 !
 My name is Erin Skidds! I am the owner and founder of App Seeker. I have been blogging and reviewing software, websites, and hardware since 2011. I am a Full Stack Developer by trade and in my free time I love to write these reviews and spend time with my husband and cats.
