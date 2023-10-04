@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"dg-updated":"2023-08-16T08:43","dg-created":"2023-08-04T10:07","title":"Note Taking Apps","dg-permalink":"note-taking-apps","dg-path":"Note Taking Apps.md","permalink":"/note-taking-apps/","dgPassFrontmatter":true,"created":"2023-08-04T10:07","updated":"2023-08-16T08:43"}
+dg-publish: true
+dg-updated: 2023-08-16T08:43
+dg-created: 2023-08-04T10:07
+title: Note Taking Apps
+dg-permalink: note-taking-apps
+dg-path: Note Taking Apps.md
 ---
-
 
 | File                                                                                                 |
 | ---------------------------------------------------------------------------------------------------- |
