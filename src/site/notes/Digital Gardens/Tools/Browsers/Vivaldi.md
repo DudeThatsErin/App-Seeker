@@ -1,27 +1,7 @@
 ---
-title: Vivaldi
-dg-publish: true
-dg-updated: 2023-09-19T08:00
-dg-created: 2023-08-12T20:36
-dg-path: Browsers/Vivaldi.md
-dg-permalink: browsers/vivaldi
-author: Erin Skidds
-authorURL: https://github.com/DudeThatsErin
-editor: 
-editorURL: 
-URL: https://vivaldi.com/
-aliases: 
-tags:
-  - iOS
-  - MacOS
-  - windows
-  - CarOS
-  - Linux
-  - Android
-openSource: false
-multiDeviceSync: true
-extSupport: true
+{"title":"Vivaldi","dg-publish":true,"dg-updated":"2023-09-19T08:00","dg-created":"2023-08-12T20:36","dg-path":"Browsers/Vivaldi.md","dg-permalink":"browsers/vivaldi","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://vivaldi.com/","aliases":null,"tags":["iOS","MacOS","windows","CarOS","Linux","Android"],"openSource":false,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/vivaldi/","dgPassFrontmatter":true,"created":"2023-08-12T20:36","updated":"2023-09-19T08:00"}
 ---
+
 
 # Pros & Cons
 ## Pros
