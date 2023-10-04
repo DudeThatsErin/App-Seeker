@@ -1,41 +1,7 @@
 ---
-title: Things 3
-dg-publish: true
-dg-updated: 2023-09-26T20:35:00
-dg-created: 2023-09-14T18:28
-dg-path: Task Managers/Things 3
-dg-permalink: task-managers/things
-author: Erin Skidds
-authorURL: https://github.com/DudeThatsErin
-editor: 
-editorURL: 
-URL: https://culturecode.com
-aliases: 
-tags:
-  - iOS
-  - MacOS
-openSource: false
-worksOffline: true
-multiDeviceSync: true
-attachmentSupport: false
-collaboration: false
-TOTPoptions: false
-dueDates: true
-doDates: true
-hasAnAPI: false
-pluginSupport: false
-hq: Stuttgart, Germany
-serverLocation: 
-priceURL: https://culturedcode.com/things/
-monthPrice: 
-yearPrice: 
-freeOption: true
-otpOption: true
-otpPrice: 80
-anyDiscounts: false
-discountDescription: 
-discountURL: []
+{"title":"Things 3","dg-publish":true,"dg-updated":"2023-09-26T20:35:00","dg-created":"2023-09-14T18:28","dg-path":"Task Managers/Things 3.md","dg-permalink":"task-managers/things","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://culturecode.com","aliases":null,"tags":["iOS","MacOS"],"openSource":false,"worksOffline":true,"multiDeviceSync":true,"attachmentSupport":false,"collaboration":false,"TOTPoptions":false,"dueDates":true,"doDates":true,"hasAnAPI":false,"pluginSupport":false,"hq":"Stuttgart, Germany","serverLocation":null,"priceURL":"https://culturedcode.com/things/","monthPrice":null,"yearPrice":null,"freeOption":true,"otpOption":true,"otpPrice":80,"anyDiscounts":false,"discountDescription":null,"discountURL":[],"permalink":"/task-managers/things/","dgPassFrontmatter":true,"created":"2023-09-14T18:28","updated":"2023-09-26T20:35:00"}
 ---
+
 # Pros & Cons
 ## Pros
 - Works well on Apple devices. Just as well as [[Digital Gardens/Tools/Task Managers/Apple Reminders\|Apple Reminders]].
