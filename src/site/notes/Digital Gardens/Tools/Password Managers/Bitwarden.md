@@ -1,7 +1,54 @@
 ---
-{"title":"Bitwarden","dg-publish":true,"dg-updated":"2023-08-08T08:49","dg-created":"2023-08-04T09:28","dg-path":"Password Managers/Bitwarden.md","dg-permalink":"pw-managers/bitwarden","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://bitwarden.com","aliases":["bw","open source pw manager"],"tags":["bw","open","source"],"apps":["android","command line","iOS","linux","macOS","web","windows"],"openSource":true,"worksOffline":true,"multiDeviceSync":true,"storageAmount":1,"addlStorage":true,"totpStorage":true,"pwSharing":true,"2FAoptions":true,"noFamily":6,"addFamily":true,"noBusiness":6,"addBusiness":true,"hq":"Santa Barbara, CA","serverLocation":null,"priceURL":"https://bitwarden.com/pricing/business/","monthPrice":null,"yearPrice":10,"freeOption":true,"otpOption":false,"otpPrice":null,"anyDiscounts":false,"discountDescription":null,"discountURL":[],"permalink":"/pw-managers/bitwarden/","dgPassFrontmatter":true,"created":"2023-08-04T09:28","updated":"2023-08-08T08:49"}
+title: Bitwarden
+dg-publish: true
+dg-updated: 2023-08-08T08:49
+dg-created: 2023-08-04T09:28
+dg-path: Password Managers/Bitwarden.md
+dg-permalink: pw-managers/bitwarden
+author: Erin Skidds
+authorURL: https://github.com/DudeThatsErin
+editor:
+editorURL:
+URL: https://bitwarden.com
+aliases:
+  - bw
+  - open source pw manager
+tags:
+  - bw
+  - open
+  - source
+apps:
+  - android
+  - command line
+  - iOS
+  - linux
+  - macOS
+  - web
+  - windows
+openSource: true
+worksOffline: true
+multiDeviceSync: true
+storageAmount: 1
+addlStorage: true
+totpStorage: true
+pwSharing: true
+2FAoptions: true
+noFamily: 6
+addFamily: true
+noBusiness: 6
+addBusiness: true
+hq: Santa Barbara, CA
+serverLocation: 
+priceURL: https://bitwarden.com/pricing/business/
+monthPrice: 
+yearPrice: 10
+freeOption: true
+otpOption: false
+otpPrice: 
+anyDiscounts: false
+discountDescription: 
+discountURL: []
 ---
-
 
 # Pros & Cons
 ## Pros
