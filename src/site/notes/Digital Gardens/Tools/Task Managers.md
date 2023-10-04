@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-updated":"2023-08-16T08:43","dg-created":"2023-08-04T10:07","title":"Task Management Apps","dg-permalink":"task-managers","dg-path":"Task Managers.md","permalink":"/task-managers/","dgPassFrontmatter":true,"created":"2023-08-04T10:07","updated":"2023-08-16T08:43"}
+{"dg-publish":true,"dg-updated":"2023-08-16T08:43","dg-created":"2023-08-04T10:07","title":"Task Management Apps","dg-permalink":"task-managers","dg-path":"Task Managers.md","tags":null,"permalink":"/task-managers/","dgPassFrontmatter":true,"created":"2023-08-04T10:07","updated":"2023-08-16T08:43"}
 ---
 
 | File                                                                        | Available where?                                                                                         | Multi-Device Sync | Open Source | 2FA Available | Due & Do Dates | Attachment Support | Offline Access | API Available | Supports Plugins | Collaboration | Headquarters Location | Free Tier? | Individual Monthly (USD) | Individual Yearly (USD) | One-Time Payment Option? | One-Time Price | Discounts Available? |
