@@ -84,6 +84,8 @@ These are all embedded, open the callouts to show the videos and you can watch t
 > [!film-gteal]- Things 3 vs. Todoist: Which Is Better (Review) - Peter Akkies
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/-KLt1LgLBPM?si=FOV6KEInkt9rIRKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!film-teal]- Todoist SUCKS - Don't Use It - XX
-> Contents
+> [!film-teal]- Todoist SUCKS - Don't Use It - Demetri Panici - Productivity Coach
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/WE62l-oKSqo?si=rWA4XxfecbftuvdJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+> [!film-teal]- The TOp 3 Todoist Alternatives 2023 - Demetri Panici - Productivity Coach
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/07OWbibySgE?si=uK0QNjAg4a5_8DYJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
