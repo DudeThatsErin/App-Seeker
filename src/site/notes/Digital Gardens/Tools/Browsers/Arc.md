@@ -1,7 +1,23 @@
 ---
-{"title":"Arc Browser","dg-publish":true,"dg-updated":"2023-08-12T14:00","dg-created":"2023-08-11T07:26","dg-path":"Browsers/Arc.md","dg-permalink":"browsers/arc","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://arc.net/","aliases":null,"tags":["iOS","MacOS"],"apps":["iPhone","macOS"],"openSource":false,"multiDeviceSync":false,"extSupport":true,"permalink":"/browsers/arc/","dgPassFrontmatter":true,"created":"2023-08-11T07:26","updated":"2023-08-12T14:00"}
+title: Arc Browser
+dg-publish: true
+dg-updated: 2023-08-12T14:00
+dg-created: 2023-08-11T07:26
+dg-path: Browsers/Arc.md
+dg-permalink: browsers/arc
+author: Erin Skidds
+authorURL: https://github.com/DudeThatsErin
+editor: 
+editorURL: 
+URL: https://arc.net/
+aliases: 
+tags:
+  - iOS
+  - MacOS
+openSource: false
+multiDeviceSync: false
+extSupport: true
 ---
-
 # Pros & Cons
 ## Pros
 - New look to the browser experience means that your web browsing experience can be more aesthetically pleasing. 
