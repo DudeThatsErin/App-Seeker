@@ -1,7 +1,26 @@
 ---
-{"title":"Mozilla Firefox","dg-publish":true,"dg-updated":"2023-08-10T10:06","dg-created":"2023-08-09T09:06","dg-path":"Browsers/Mozilla Firefox.md","dg-permalink":"browsers/firefox","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"URL":"https://www.mozilla.org/en-US/firefox/new/","aliases":null,"tags":["browser","mozilla","nonprofit","firefox"],"apps":["android","iOS","linux","macOS","windows"],"openSource":null,"multiDeviceSync":true,"extSupport":true,"permalink":"/browsers/firefox/","dgPassFrontmatter":true,"created":"2023-08-09T09:06","updated":"2023-08-10T10:06"}
+title: Mozilla Firefox
+dg-publish: true
+dg-updated: 2023-08-10T10:06
+dg-created: 2023-08-09T09:06
+dg-path: Browsers/Mozilla Firefox.md
+dg-permalink: browsers/firefox
+author: Erin Skidds
+authorURL: https://github.com/DudeThatsErin
+editor: 
+editorURL: 
+URL: https://www.mozilla.org/en-US/firefox/new/
+aliases: 
+tags:
+  - iOS
+  - MacOS
+  - windows
+  - Android
+  - Linux
+openSource: 
+multiDeviceSync: true
+extSupport: true
 ---
-
 # Pros & Cons
 ## Pros
 - Advertising and Privacy Blocking is built into the browser. Mozilla doesn't collect as much data on its users as Google and dissociates activity from user identities. Basically this means that your browsing activity is more private on Firefox than on Google. 
