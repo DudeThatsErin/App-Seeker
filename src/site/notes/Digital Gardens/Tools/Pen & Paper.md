@@ -1,52 +1,7 @@
 ---
-title: Pen & Paper
-dg-publish: true
-dg-created: 2023-07-30T10:54
-dg-updated: 2023-08-16T08:45
-dg-path: Pen & Paper.md
-dg-permalink: pen-paper
-author: Erin Skidds
-authorURL: https://github.com/DudeThatsErin
-editor: 
-editorURL: 
-aliases:
-  - basic
-  - pen
-  - paper
-tags:
-  - basic
-  - notes
-  - non-digital
-apps:
-  - Offline Only
-openSource: true
-worksOffline: true
-doDates: 
-dueDates: 
-attachmentSupport: false
-hasAnAPI: 
-reminders: false
-locationBasedReminders: false
-kanbanView: true
-listView: true
-switchBetween: true
-hq: Your Home
-pluginSupport: false
-collaboration: true
-nlp: true
-2FAoptions: 
-serverLocation: ""
-selfHosting: 
-priceURL: ""
-monthPrice: 
-yearPrice: 
-freeOption: false
-otpOption: true
-otpPrice: 10
-anyDiscounts: false
-discountDescription: 
-discountURL: []
+{"title":"Pen & Paper","dg-publish":true,"dg-created":"2023-07-30T10:54","dg-updated":"2023-08-16T08:45","dg-path":"Pen & Paper.md","dg-permalink":"pen-paper","author":"Erin Skidds","authorURL":"https://github.com/DudeThatsErin","editor":null,"editorURL":null,"aliases":["basic","pen","paper"],"tags":["OfflineOnly"],"openSource":true,"worksOffline":true,"doDates":null,"dueDates":null,"attachmentSupport":true,"hasAnAPI":null,"reminders":false,"locationBasedReminders":false,"kanbanView":true,"listView":true,"switchBetween":true,"hq":"Your Home","pluginSupport":false,"collaboration":true,"nlp":true,"2FAoptions":null,"serverLocation":"","selfHosting":null,"priceURL":"","monthPrice":null,"yearPrice":null,"freeOption":false,"otpOption":true,"otpPrice":10,"anyDiscounts":false,"discountDescription":null,"discountURL":[],"permalink":"/pen-paper/","dgPassFrontmatter":true,"created":"2023-07-30T10:54","updated":"2023-08-16T08:45"}
 ---
+
 # Pros & Cons
 ## Pros
 - You can carry it with you everywhere.
@@ -74,18 +29,17 @@ You can read all of my views in the Pros & Cons section above. I do not have muc
 ## YouTube Videos
 These are all embedded, open the callouts to show the videos and you can watch them right here on our site.
 
-> [!info]- Pros and Cons of Digital Notes - tbhstudying
+> [!film]- Pros and Cons of Digital Notes - tbhstudying
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/9uB9rX6wzkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightr]- Pros and Cons of Typed, Digitally Handwritten, and Paper Notes | GUTS Tip 2
+> [!film-lightr]- Pros and Cons of Typed, Digitally Handwritten, and Paper Notes | GUTS Tip 2
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/M3cw4HYs9sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightdb]- Digital Notes vs Handwriting NOtes (which should you do?) - Kharma Medic
+> [!film-lightdb]- Digital Notes vs Handwriting NOtes (which should you do?) - Kharma Medic
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/Ict0-SCMpqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightpp]- Truth about Digital Note Taking vs Paper Notes (PROS/CONS) - heymin
+> [!film-lightpp]- Truth about Digital Note Taking vs Paper Notes (PROS/CONS) - heymin
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/4nw4Z2cwm30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> [!info-lightb]- PAPER VS DIGITAL BULLET JOURNAL (pros + cons of each) - Brianna Stone
+> [!film-lightb]- PAPER VS DIGITAL BULLET JOURNAL (pros + cons of each) - Brianna Stone
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/JJKcOtFBHQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
